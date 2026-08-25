@@ -789,6 +789,102 @@ https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@Brazil" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="Movies",Adrenalina Pura TV
 https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
+#EXTINF:-1 tvg-name="A&E 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E 4K
+http://tjtor8411.com:80/010794/FXz1sY/90647.ts
+#EXTINF:-1 tvg-name="A&E FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD
+http://tjtor8411.com:80/010794/FXz1sY/71760.ts
+#EXTINF:-1 tvg-name="A&E FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71761.ts
+#EXTINF:-1 tvg-name="A&E HD" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E HD
+http://tjtor8411.com:80/010794/FXz1sY/71762.ts
+#EXTINF:-1 tvg-name="A&E SD" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E SD
+http://tjtor8411.com:80/010794/FXz1sY/71763.ts
+#EXTINF:-1 tvg-name="AMC 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC 4K
+http://tjtor8411.com:80/010794/FXz1sY/90646.ts
+#EXTINF:-1 tvg-name="AMC FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD
+http://tjtor8411.com:80/010794/FXz1sY/71768.ts
+#EXTINF:-1 tvg-name="AMC FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71769.ts
+#EXTINF:-1 timeshift="7" tvg-name="AMC HD" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC HD
+http://tjtor8411.com:80/010794/FXz1sY/71770.ts
+#EXTINF:-1 tvg-name="AMC SD" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC SD
+http://tjtor8411.com:80/010794/FXz1sY/71771.ts
+#EXTINF:-1 tvg-name="Animal Planet 4K" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet 4K
+http://tjtor8411.com:80/010794/FXz1sY/71774.ts
+#EXTINF:-1 tvg-name="Animal Planet FHD" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet FHD
+http://tjtor8411.com:80/010794/FXz1sY/71772.ts
+#EXTINF:-1 tvg-name="Animal Planet FHD [H265]" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71773.ts
+#EXTINF:-1 timeshift="7" tvg-name="Animal Planet HD" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet HD
+http://tjtor8411.com:80/010794/FXz1sY/71775.ts
+#EXTINF:-1 tvg-name="Animal Planet SD" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet SD
+http://tjtor8411.com:80/010794/FXz1sY/71776.ts
+#EXTINF:-1 tvg-name="Discovery Channel FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71863.ts
+#EXTINF:-1 timeshift="7" tvg-name="Discovery Channel HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD
+http://tjtor8411.com:80/010794/FXz1sY/71865.ts
+#EXTINF:-1 tvg-name="Discovery Channel SD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel SD
+http://tjtor8411.com:80/010794/FXz1sY/71866.ts
+#EXTINF:-1 tvg-name="Discovery H&H 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H 4K
+http://tjtor8411.com:80/010794/FXz1sY/90251.ts
+#EXTINF:-1 tvg-name="Discovery H&H FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H FHD
+http://tjtor8411.com:80/010794/FXz1sY/71867.ts
+#EXTINF:-1 tvg-name="Discovery H&H FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71868.ts
+#EXTINF:-1 tvg-name="Discovery H&H HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H HD
+http://tjtor8411.com:80/010794/FXz1sY/71869.ts
+#EXTINF:-1 tvg-name="Discovery H&H SD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H SD
+http://tjtor8411.com:80/010794/FXz1sY/71870.ts
+#EXTINF:-1 tvg-name="Discovery Kids 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids 4K
+http://tjtor8411.com:80/010794/FXz1sY/90250.ts
+#EXTINF:-1 tvg-name="Discovery Kids FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD
+http://tjtor8411.com:80/010794/FXz1sY/71871.ts
+#EXTINF:-1 tvg-name="Discovery Kids FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71872.ts
+#EXTINF:-1 timeshift="7" tvg-name="Discovery Kids HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids HD
+http://tjtor8411.com:80/010794/FXz1sY/71873.ts
+#EXTINF:-1 tvg-name="Discovery Kids SD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids SD
+http://tjtor8411.com:80/010794/FXz1sY/71874.ts
+#EXTINF:-1 tvg-name="Discovery Science 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science 4K
+http://tjtor8411.com:80/010794/FXz1sY/103511.ts
+#EXTINF:-1 tvg-name="Discovery Science FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD
+http://tjtor8411.com:80/010794/FXz1sY/71875.ts
+#EXTINF:-1 tvg-name="Discovery Science FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71876.ts
+#EXTINF:-1 timeshift="7" tvg-name="Discovery Science HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
+http://tjtor8411.com:80/010794/FXz1sY/71877.ts
+#EXTINF:-1 tvg-name="Discovery Science SD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science SD
+http://tjtor8411.com:80/010794/FXz1sY/71878.ts
+#EXTINF:-1 tvg-name="Discovery Theater 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater 4K
+http://tjtor8411.com:80/010794/FXz1sY/103510.ts
+#EXTINF:-1 tvg-name="Discovery Theater FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater FHD
+http://tjtor8411.com:80/010794/FXz1sY/71879.ts
+#EXTINF:-1 tvg-name="Discovery Theater FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71880.ts
+#EXTINF:-1 timeshift="7" tvg-name="Discovery Theater HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater HD
+http://tjtor8411.com:80/010794/FXz1sY/71881.ts
+#EXTINF:-1 tvg-name="Discovery Theater SD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater SD
+http://tjtor8411.com:80/010794/FXz1sY/71882.ts
+#EXTINF:-1 tvg-name="Discovery Turbo 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo 4K
+http://tjtor8411.com:80/010794/FXz1sY/90641.ts
+#EXTINF:-1 tvg-name="Discovery Turbo FHD" tvg-logo="http://tjtor8411.com/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo FHD
+http://tjtor8411.com:80/010794/FXz1sY/71883.ts
+#EXTINF:-1 tvg-name="Discovery Turbo FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71884.ts
+#EXTINF:-1 tvg-name="Discovery Turbo HD" tvg-logo="http://tjtor8411.com/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo HD
+http://tjtor8411.com:80/010794/FXz1sY/71885.ts
+#EXTINF:-1 tvg-name="Discovery Turbo SD" tvg-logo="http://tjtor8411.com/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo SD
+http://tjtor8411.com:80/010794/FXz1sY/71886.ts
+#EXTINF:-1 tvg-name="Discovery World 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World 4K
+http://tjtor8411.com:80/010794/FXz1sY/103509.ts
+#EXTINF:-1 tvg-name="Discovery World FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World FHD
+http://tjtor8411.com:80/010794/FXz1sY/71887.ts
+#EXTINF:-1 tvg-name="Discovery World FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71888.ts
+#EXTINF:-1 timeshift="7" tvg-name="Discovery World HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World HD
+http://tjtor8411.com:80/010794/FXz1sY/71889.ts
+#EXTINF:-1 tvg-name="Discovery World SD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World SD
+http://tjtor8411.com:80/010794/FXz1sY/71890.ts
 
 
 

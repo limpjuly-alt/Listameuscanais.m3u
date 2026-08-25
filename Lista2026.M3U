@@ -781,6 +781,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 #EXTINF:0,RunTime Romance | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+#EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entertainment",A&E Latin America Brazil (720p)
+http://45.190.28.50/AE_HD/index.m3u8
+#EXTINF:-1 tvg-id="ADBTV.pt@SD" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" group-title="Religious",ADB TV (1080p)
+https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AdessoTV.br@SD" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="General",Adesso TV (720p)
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@Brazil" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="Movies",Adrenalina Pura TV
+https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 
 
 

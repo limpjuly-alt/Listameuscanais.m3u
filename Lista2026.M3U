@@ -711,6 +711,61 @@ https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8
 https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
 #EXTINF:-1 tvg-id="MTVCatfish.us@BR",MTV Catfish (720p)
 https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
+#EXTINF:-1 tvg-id="FilmesSuspense.us@BR",Filmes Suspense
+https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
+#EXTINF:-1 tvg-id="",Caçadores de Óvnis
+https://jmp2.uk/plu-656e2a10954b020008ed167c.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineClassicos.us@BR",Pluto TV Cine Clássicos
+https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineComedia.us@BR",Pluto TV Cine Comédia
+https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineComediaRomantica.us@BR",Pluto TV Cine Comédia Romântica
+https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineCrime.us@BR",Pluto TV Cine Crime
+https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineDrama.us@BR",Pluto TV Cine Drama
+https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineFamilia.us@BR",Pluto TV Cine Família
+https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineInspiracao.us@BR",Pluto TV Cine Inspiração
+https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineRomance.us@BR",Pluto TV Cine Romance
+https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineSucessos.us@BR",Pluto TV Cine Sucessos
+https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFiccaoCientifica.us@BR",Pluto TV Ficção Científica
+https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFilmesAcao.us@BR",Pluto TV Filmes Ação
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFilmesAventura.us@BR",Pluto TV Filmes Aventura
+https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFilmesdeLuta.us@BR",Pluto TV Filmes de Luta
+https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFilmesNacionais.us@BR",Pluto TV Filmes Nacionais
+https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRetro.us@BR",Pluto TV Retrô
+https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeriesAcao.us@BR",Pluto TV Séries Ação
+https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us@BR",Pluto TV Séries Comédia
+https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeriesCriminais.us@BR",Pluto TV Séries Criminais
+https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeriesDrama.us@BR",Pluto TV Séries Drama
+https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeriesNovelescas.us@BR",Pluto TV Séries Novelescas
+https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeriesSciFi.us@BR",Pluto TV Séries Sci-Fi
+https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTerrorTrash.us@BR",Pluto TV Terror Trash
+https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.br@SD",MyTime Movie Network Brazil (720p)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceBrazuca.fr@HD",Trace Brasil (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-id="VEJAPlusTV.br@HD",VEJA+ TV (1080p)
+https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8
+
 
 
 

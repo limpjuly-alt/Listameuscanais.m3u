@@ -75,6 +75,8 @@ https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/espn.m3u8
 #EXTINF:-1 tvg-id="SportTV2.br@SD",Sport TV 2 (720p)
 https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv2.m3u8
+#EXTINF:-1 tvg-id="PremiereClubes.br@SD",Premiere Clubes (720p)
+https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere2.m3u8
 #EXTINF:-1 tvg-id="STZTV.br@SD",STZ TV (1080p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TCM10HD.br@SD",TCM 10 HD (1080p)

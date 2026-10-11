@@ -67,6 +67,8 @@ http://138.255.2.6:8084/SONYMOVIES/index.m3u8
 http://168.197.104.22/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br@SD",Sony Movies (720p)
 http://170.83.16.50/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="SonyOneCinema.br@SD",Sony One Cinema (720p)
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-id="SOUTV.br@SD",SOU TV
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="SporTV3.br@SD",SporTV 3 (720p)

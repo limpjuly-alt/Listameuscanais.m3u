@@ -623,6 +623,8 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 https://play.mbcbrasil.tv.br/playlist.m3u8
 #EXTINF:-1 tvg-id="Megapix.br@SD",Megapix (720p)
 https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/megapix.m3u8
+#EXTINF:-1 tvg-id="TelecinePipoca.br@SD",Telecine Pipoca (720p)
+https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepipoca.m3u8
 #EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD",Music Box Brazil (720p)
 http://45.190.28.50/MUSIC_BOX_HD/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD",Music Box Brazil (720p)

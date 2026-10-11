@@ -535,8 +535,8 @@ http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-id="CatveMasterTV.br@SD",Catve Master TV (720p) [Not 24/7]
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="CazeTV.br@SD",CazeTV (1080i)
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/240p-cc/index.m3u8
+#EXTINF:-1 tvg-id="CazeTV.br@SD",CazeTV (720p)
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/720p-cc/index.m3u8
 #EXTINF:-1 tvg-id="ChefTV.br@SD",Chef TV (720p)
 http://45.190.28.50/CHEF_TV/index.m3u8
 #EXTINF:-1 tvg-id="ChefTV.br@SD",Chef TV (720p)

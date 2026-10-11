@@ -537,6 +537,8 @@ https://video24.mais.uol.com.br/live/6146.m3u8
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="CazeTV.br@SD",CazeTV (720p)
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/720p-cc/index.m3u8
+#EXTINF:-1 tvg-id="Nsports.br@SD",N Sports (720p)
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
 #EXTINF:-1 tvg-id="ChefTV.br@SD",Chef TV (720p)
 http://45.190.28.50/CHEF_TV/index.m3u8
 #EXTINF:-1 tvg-id="ChefTV.br@SD",Chef TV (720p)

@@ -805,16 +805,8 @@ http://tjtor8411.com:80/010794/FXz1sY/71769.ts
 http://tjtor8411.com:80/010794/FXz1sY/71770.ts
 #EXTINF:-1 tvg-name="AMC SD" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC SD
 http://tjtor8411.com:80/010794/FXz1sY/71771.ts
-#EXTINF:-1 tvg-name="Animal Planet 4K" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet 4K
-http://tjtor8411.com:80/010794/FXz1sY/71774.ts
-#EXTINF:-1 tvg-name="Animal Planet FHD" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet FHD
-http://tjtor8411.com:80/010794/FXz1sY/71772.ts
-#EXTINF:-1 tvg-name="Animal Planet FHD [H265]" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71773.ts
-#EXTINF:-1 timeshift="7" tvg-name="Animal Planet HD" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet HD
-http://tjtor8411.com:80/010794/FXz1sY/71775.ts
-#EXTINF:-1 tvg-name="Animal Planet SD" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet SD
-http://tjtor8411.com:80/010794/FXz1sY/71776.ts
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet FHD
+https://77e234bed854e2db79e8e97865a83877.s25-cloudfront-net.lat/stream/d112e8700fb7d5f516f37a3c8ec3f29b/error.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD [H265]
 http://tjtor8411.com:80/010794/FXz1sY/71863.ts
 #EXTINF:-1 timeshift="7" tvg-name="Discovery Channel HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD

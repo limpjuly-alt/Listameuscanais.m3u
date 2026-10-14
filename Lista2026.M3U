@@ -807,18 +807,10 @@ http://tjtor8411.com:80/010794/FXz1sY/71770.ts
 http://tjtor8411.com:80/010794/FXz1sY/71771.ts
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet
 https://77e234bed854e2db79e8e97865a83877.s25-cloudfront-net.lat/stream/d112e8700fb7d5f516f37a3c8ec3f29b/error.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel " tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel 
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel 
 https://77e234bed854e2db79e8e97865a83877.s25-cloudfront-net.lat/stream/e4be4d374d64165e183aa2fef78d9d03/error.m3u8
-#EXTINF:-1 tvg-name="Discovery H&H 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H 4K
-http://tjtor8411.com:80/010794/FXz1sY/90251.ts
-#EXTINF:-1 tvg-name="Discovery H&H FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H FHD
-http://tjtor8411.com:80/010794/FXz1sY/71867.ts
-#EXTINF:-1 tvg-name="Discovery H&H FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71868.ts
-#EXTINF:-1 tvg-name="Discovery H&H HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H HD
-http://tjtor8411.com:80/010794/FXz1sY/71869.ts
-#EXTINF:-1 tvg-name="Discovery H&H SD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H SD
-http://tjtor8411.com:80/010794/FXz1sY/71870.ts
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery Science
+https://77e234bed854e2db79e8e97865a83877.s25-cloudfront-net.lat/stream/2a920c526876d7d1c8308c09080c5df4/error.m3u8
 #EXTINF:-1 tvg-name="Discovery Kids 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids 4K
 http://tjtor8411.com:80/010794/FXz1sY/90250.ts
 #EXTINF:-1 tvg-name="Discovery Kids FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD

@@ -626,7 +626,7 @@ https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65
 #EXTINF:-1 tvg-id="TelecinePipoca.br@SD",Telecine Pipoca (720p)
 https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepipoca.m3u8
 #EXTINF:-1 tvg-id="TelecineFun.br@SD",Telecine Fun (720p)
-https://77e234bed854e2db79e8e97865a83877.ts25-cloudfront-net.lat/stream/d6b5c202d92e75e0042c2f568d5e9506/TelecineFun.m3u8
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
 #EXTINF:-1 tvg-id="TelecineCult.br@SD",Telecine Cult (720p)
 https://77e234bed854e2db79e8e97865a83877.s25-cloudfront-net.lat/stream/0f1dd92e9f65ef01a06232352564f183/error.m3u8
 #EXTINF:-1 tvg-id="TelecineAction.br@SD",Telecine Action (720p)

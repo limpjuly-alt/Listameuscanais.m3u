@@ -805,14 +805,10 @@ http://tjtor8411.com:80/010794/FXz1sY/71769.ts
 http://tjtor8411.com:80/010794/FXz1sY/71770.ts
 #EXTINF:-1 tvg-name="AMC SD" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC SD
 http://tjtor8411.com:80/010794/FXz1sY/71771.ts
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet FHD
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet
 https://77e234bed854e2db79e8e97865a83877.s25-cloudfront-net.lat/stream/d112e8700fb7d5f516f37a3c8ec3f29b/error.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71863.ts
-#EXTINF:-1 timeshift="7" tvg-name="Discovery Channel HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD
-http://tjtor8411.com:80/010794/FXz1sY/71865.ts
-#EXTINF:-1 tvg-name="Discovery Channel SD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel SD
-http://tjtor8411.com:80/010794/FXz1sY/71866.ts
+#EXTINF:-1 tvg-name="Discovery Channel " tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel 
+https://77e234bed854e2db79e8e97865a83877.s25-cloudfront-net.lat/stream/e4be4d374d64165e183aa2fef78d9d03/error.m3u8
 #EXTINF:-1 tvg-name="Discovery H&H 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H 4K
 http://tjtor8411.com:80/010794/FXz1sY/90251.ts
 #EXTINF:-1 tvg-name="Discovery H&H FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H FHD

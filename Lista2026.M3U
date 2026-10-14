@@ -634,7 +634,7 @@ https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/eaf439ba6
 #EXTINF:-1 tvg-id="TelecinePremium.br@SD",Telecine Premium (720p)
 https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/4f7b4fdfe03f0cc3ed79f5a16945c221/telecinepremium.m3u8
 #EXTINF:-1 tvg-id="TelecineTouch.br@SD",Telecine Touch (720p)
-https://77e234bed854e2db79e8e97865a83877.s25-cloudfront-net.lat/stream/5e8b1199690b7bffab9d9a3fdd687347/error.m3u8
+https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/c77a1388ed4980c04d16b61c69cfe096/telecinetouch.m3u8
 #EXTINF:-1 tvg-id="TNT.br@SD",TNT (720p)
 https://77e234bed854e2db79e8e97865a83877.s25-cloudfront-net.lat/stream/377a905e2ace3e9aefc39834d7218c87/error.m3u8
 #EXTINF:-1 tvg-id="TNTSéries.br@SD",TNT Séries (720p)

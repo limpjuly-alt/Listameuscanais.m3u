@@ -77,6 +77,10 @@ https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65
 https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv2.m3u8
 #EXTINF:-1 tvg-id="PremiereClubes.br@SD",Premiere Clubes (720p)
 https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere2.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
+http://45.162.64.114/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
+http://170.83.16.50/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="STZTV.br@SD",STZ TV (1080p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TCM10HD.br@SD",TCM 10 HD (1080p)
@@ -437,14 +441,6 @@ https://dai.google.com/linear/hls/pa/event/f0Tz47QTSQy_RsfSP_WcSA/stream/7251595
 https://dai.google.com/linear/hls/pa/event/f0Tz47QTSQy_RsfSP_WcSA/stream/72515950-4b9b-43f5-a6fc-13bc91041499:SCL2/variant/db41dabc175aace8c60ccd8dd182f588/bandwidth/4728000.m3u8
 #EXTINF:-1 tvg-id="Band.br@SD",Band (576p)
 https://dai.google.com/linear/hls/pa/event/f0Tz47QTSQy_RsfSP_WcSA/stream/72515950-4b9b-43f5-a6fc-13bc91041499:SCL2/variant/db41dabc175aace8c60ccd8dd182f588/bandwidth/4728000.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
-http://45.162.64.114/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
-http://45.190.28.50/BAND_SPORTS_HD/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
-http://170.83.16.50/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
-http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br@SD",BandNews (720p)
 http://45.162.64.114/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br@SD",BandNews (720p)
@@ -621,26 +617,6 @@ https://tv.laboralsst.com.br/hls/stream.m3u8
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCBrasilTV.br@SD",MBC Brasil TV
 https://play.mbcbrasil.tv.br/playlist.m3u8
-#EXTINF:-1 tvg-id="Megapix.br@SD",Megapix (720p)
-https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/megapix.m3u8
-#EXTINF:-1 tvg-id="TelecinePipoca.br@SD",Telecine Pipoca (720p)
-https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepipoca.m3u8
-#EXTINF:-1 tvg-id="TelecineFun.br@SD",Telecine Fun (720p)
-https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/fb653f2357708a20cecc3f0e58d3f287/telecinefun.m3u8
-#EXTINF:-1 tvg-id="TelecineCult.br@SD",Telecine Cult (720p)
-https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/d2efd6f9e10ba821898e7dd768fff83e/telecinecult.m3u8
-#EXTINF:-1 tvg-id="TelecineAction.br@SD",Telecine Action (720p)
-https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/eaf439ba6c7c055ca7618d373e8b6cf5/telecineaction.m3u8
-#EXTINF:-1 tvg-id="TelecinePremium.br@SD",Telecine Premium (720p)
-https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/4f7b4fdfe03f0cc3ed79f5a16945c221/telecinepremium.m3u8
-#EXTINF:-1 tvg-id="TelecineTouch.br@SD",Telecine Touch (720p)
-https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/c77a1388ed4980c04d16b61c69cfe096/telecinetouch.m3u8
-#EXTINF:-1 tvg-id="TNT.br@SD",TNT (720p)
-https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/0e473a16b3c3f19e3dfc0fe5a6168cb5/TNT.m3u8
-#EXTINF:-1 tvg-id="TNTSéries.br@SD",TNT Séries (720p)
-https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/84854c971e8834c7b76f393449de2318/TNTSéries.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.br@SD",Cartoon Network (720p)
-https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/5ea02d3d86e84200ee0d68f72da3913e/cartoonnetwork.txt.m3u8
 #EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD",Music Box Brazil (720p)
 http://45.190.28.50/MUSIC_BOX_HD/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD",Music Box Brazil (720p)
@@ -693,6 +669,26 @@ https://redebrasil.nuvemplay.live/hls/stream.m3u8
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br@SD",Rede Brasil (720p)
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Megapix.br@SD",Megapix (720p)
+https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/megapix.m3u8
+#EXTINF:-1 tvg-id="TelecinePipoca.br@SD",Telecine Pipoca (720p)
+https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepipoca.m3u8
+#EXTINF:-1 tvg-id="TelecineFun.br@SD",Telecine Fun (720p)
+https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/fb653f2357708a20cecc3f0e58d3f287/telecinefun.m3u8
+#EXTINF:-1 tvg-id="TelecineCult.br@SD",Telecine Cult (720p)
+https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/d2efd6f9e10ba821898e7dd768fff83e/telecinecult.m3u8
+#EXTINF:-1 tvg-id="TelecineAction.br@SD",Telecine Action (720p)
+https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/eaf439ba6c7c055ca7618d373e8b6cf5/telecineaction.m3u8
+#EXTINF:-1 tvg-id="TelecinePremium.br@SD",Telecine Premium (720p)
+https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/4f7b4fdfe03f0cc3ed79f5a16945c221/telecinepremium.m3u8
+#EXTINF:-1 tvg-id="TelecineTouch.br@SD",Telecine Touch (720p)
+https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/c77a1388ed4980c04d16b61c69cfe096/telecinetouch.m3u8
+#EXTINF:-1 tvg-id="TNT.br@SD",TNT (720p)
+https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/0e473a16b3c3f19e3dfc0fe5a6168cb5/TNT.m3u8
+#EXTINF:-1 tvg-id="TNTSéries.br@SD",TNT Séries (720p)
+https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/84854c971e8834c7b76f393449de2318/TNTSéries.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.br@SD",Cartoon Network (720p)
+https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/5ea02d3d86e84200ee0d68f72da3913e/cartoonnetwork.txt.m3u8
 #EXTINF:-1 tvg-id="",Mais MasterChef Brasil
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/681111be5e0764e297fb200e/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=2b27cfe8-c816-11f1-ae67-7ced8dbd9c2f&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=2b27cfe8-c816-11f1-ae67-7ced8dbd9c2f&deviceLat=-22.8400&deviceLon=-43.3400&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=BR&serverSideAds=false&sessionID=2b33b096-c816-11f1-81bd-e2838c61486a&sid=2b33b096-c816-11f1-81bd-e2838c61486a&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImQ0ODJmOGViLTczMjgtNDIxMi1iMmNjLTZmYTE0NGJiZTQ1OCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIyYjMzYjA5Ni1jODE2LTExZjEtODFiZC1lMjgzOGM2MTQ4NmEiLCJjbGllbnRJUCI6IjE3Ny4xOTIuMjU1LjM4IiwiY2l0eSI6IlJpbyBEZSBKYW5laXJvIiwicG9zdGFsQ29kZSI6IjIxNTQ1LTI3MCIsImNvdW50cnkiOiJCUiIsImRtYSI6NzYwMDgsImFjdGl2ZVJlZ2lvbiI6IkJSIiwiZGV2aWNlTGF0IjotMjIuODQwMDAwMTUyNTg3ODksImRldmljZUxvbiI6LTQzLjM0MDAwMDE1MjU4Nzg5LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjEuMCIsImNsaWVudElEIjoiMmIyN2NmZTgtYzgxNi0xMWYxLWFlNjctN2NlZDhkYmQ5YzJmIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvU2FvX1BhdWxvIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJBZFNlc3Npb25FdmVudCI6eyJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJEYXNoTmciOnsiaml0UGFjayI6InJlcGFja0ppdCxkZWNyeXB0In0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjJiMjdjZmU4LWM4MTYtMTFmMS1hZTY3LTdjZWQ4ZGJkOWMyZiIsImZ3VmNJRDJDb3BwYSI6IjJiMjdjZmU4LWM4MTYtMTFmMS1hZTY3LTdjZWQ4ZGJkOWMyZiIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiMmIyN2NmZTgtYzgxNi0xMWYxLWFlNjctN2NlZDhkYmQ5YzJmIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiMTA0NiIsIl9md18zUF9VSUQiOiJJREw6QXNMSmZaWS1DN1o5azgwUWMyLTAybzdvbzkteVdzNHYxZlpCa2Z2QUZCOGQwbVBEV29nWF9TVXl6c2EwNU1IblF1T1FGd0JFd3ZVMmczU1VrZWxldG5qNkd1a09CaUVwcGl5WEh1am5rUV9pUWpLa0Qtdi0tSVNJanFpMXlLVzlRVkZsaVlFZDQtM1dXOFlROEtRWmQxYTRvYUZTelpZdFpIdjV2d295Y3RESkUtRTM1eFN2Mmdfel9sX0g1T0lhd1hodENxUHBGNk9Od1JPVlBSSDNnRWFnQ0dRdWtEdU5GTXRjNTROME5Zam90ZVFwM0ZIUTh6OW42b0hKQ1EzY2ZuRlB1a0M3dWliSHNZZmtUc1A0bFdPems0a0xSS2FlT0ZQclBLWHZWX2h6Z1NnNGtoX180Szc0Vl9MM1hQUTZ1NFJaMTY2M2ZLekw1ckVrUDRXY1BvMGN6S0hNTkdlMmZvbjg4Y0FFWXciLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDksMTAwMTUsMTAwMjAsMTAwMjEsMTAwMjMsMTAwMTMsMTAwMTQsMTAwMTYifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3OTIwMTMyOTY0ODMsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpCUjpNbUl5TjJObVpUZ3RZemd4TmkweE1XWXhMV0ZsTmpjdE4yTmxaRGhrWW1RNVl6Sm0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkyMDk5Njk2LCJpYXQiOjE3OTIwMTMyOTYsImp0aSI6IjhmZTMyZWE0LTJjZTItNDNhZS1iYmNkLWQzZmQwYTZhNDg3YSJ9.WGYeQNSRMJg0t0HmC00NB6m5NGdLirPaeAr8YsZaXrU&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
 #EXTINF:-1 tvg-id="MasterChef.us@Brazil",MasterChef

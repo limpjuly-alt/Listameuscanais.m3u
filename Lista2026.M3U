@@ -216,21 +216,21 @@ https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65
 #EXTINF:-1 tvg-id="MegaCineTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Movies",Mega Cine TV (1080p)
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-id="TelecinePipoca.br@SD" group-title="FILMES E SÉRIES",Telecine Pipoca (720p)
-https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepipoca.m3u8
+https://np.s25-cloudfront-net.lat/stream/a610af739ca387118975ce294d4053b1/telecinepipoca.m3u8
 #EXTINF:-1 tvg-id="TelecineFun.br@SD" group-title="FILMES E SÉRIES",Telecine Fun (720p)
-https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/fb653f2357708a20cecc3f0e58d3f287/telecinefun.m3u8
+https://np.s25-cloudfront-net.lat/stream/3d7259b1dd540a868fb71219b0e10cb8/telecinefun.m3u8
 #EXTINF:-1 tvg-id="TelecineCult.br@SD" group-title="FILMES E SÉRIES",Telecine Cult (720p)
-https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/d2efd6f9e10ba821898e7dd768fff83e/telecinecult.m3u8
+https://np.s25-cloudfront-net.lat/stream/9a0b2c86d8201a4b9a2e8c42fb8a6617/telecinecult.m3u8
 #EXTINF:-1 tvg-id="TelecineAction.br@SD" group-title="FILMES E SÉRIES",Telecine Action (720p)
-https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/eaf439ba6c7c055ca7618d373e8b6cf5/telecineaction.m3u8
+https://np.s25-cloudfront-net.lat/stream/704917a6d11a4e5baa650c23a5ed3798/telecineaction.m3u8
 #EXTINF:-1 tvg-id="TelecinePremium.br@SD" group-title="FILMES E SÉRIES",Telecine Premium (720p)
-https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/4f7b4fdfe03f0cc3ed79f5a16945c221/telecinepremium.m3u8
+https://np.s25-cloudfront-net.lat/stream/623761b05b5524f3799eda86877bf6c3/telecinepremium.m3u8
 #EXTINF:-1 tvg-id="TelecineTouch.br@SD" group-title="FILMES E SÉRIES",Telecine Touch (720p)
-https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/c77a1388ed4980c04d16b61c69cfe096/telecinetouch.m3u8
+https://np.s25-cloudfront-net.lat/stream/ac6027dc57c7201bdad73496b1395f5a/telecinetouch.m3u8
 #EXTINF:-1 tvg-id="TNT.br@SD" group-title="FILMES E SÉRIES",TNT (720p)
 https://np.s25-cloudfront-net.lat/stream/7a278ad7d3384b845ce6e35d1ff81793/TNT.m3u8
 #EXTINF:-1 tvg-id="TNTSéries.br@SD" group-title="FILMES E SÉRIES",TNT Séries (720p)
-https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/84854c971e8834c7b76f393449de2318/TNTSéries.m3u8
+https://np.s25-cloudfront-net.lat/stream/dd651df7e8775566229110a8087223b9/TNTSéries.m3u8
 #EXTINF:-1 tvg-id="FilmesSuspense.us@BR" group-title="FILMES E SÉRIES",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineClassicos.us@BR" group-title="FILMES E SÉRIES",Pluto TV Cine Clássicos

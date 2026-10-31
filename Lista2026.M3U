@@ -1,855 +1,852 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="TVBahia.br@HD",TV GLOBO  (1080i)
+
+# --- TV ABERTA ---
+#EXTINF:-1 tvg-id="TVBahia.br@HD" group-title="TV ABERTA",TV GLOBO  (1080i)
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br@SD",SBT Nacional (720p) 
+#EXTINF:-1 tvg-id="SBTNacional.br@SD" group-title="TV ABERTA",SBT Nacional (720p)
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br@SD",SBT Nacional (720p)
-https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br@SD",SBT Nacional (720p)
-https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br@SD",SBT Nacional (576p)
-https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTNews.br@SD",SBT News (720p)
+#EXTINF:-1 tvg-id="SBTNews.br@SD" group-title="TV ABERTA",SBT News (720p)
 https://sbtnews.maissbt.com/3.m3u8
-#EXTINF:-1 tvg-id="Record.br@SD",Record TV (720p)
+#EXTINF:-1 tvg-id="Record.br@SD" group-title="TV ABERTA",Record TV (720p)
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="Record.br@SD",Record TV (720p)
+#EXTINF:-1 tvg-id="Record.br@SD" group-title="TV ABERTA",Record TV (720p)
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD",Record News (720p)
-http://45.162.64.114/RECORD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD",Record News (720p)
-http://45.177.114.115/RECORD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD",Record News (720p)
-http://168.197.104.22/RECORD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD",Record News (720p)
-http://170.83.16.50/RECORD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD",Record News (720p)
-http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD",Record News (720p)
-http://186.219.52.187/record_news/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD",Record News (720p)
-https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:-1 tvg-id="RedeGospel.br@SD",Rede Gospel (1080p)
-https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeGospel.br@SD",Rede Gospel (1080p)
-https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RedeGospel.br@SD",Rede Gospel (720p)
-http://45.177.114.115/REDE_GOSPEL/index.m3u8
-#EXTINF:-1 tvg-id="RedeGospel.br@SD",Rede Gospel (720p)
-http://170.83.49.66:8083/REDEGOSPELHD/index.m3u8
-#EXTINF:-1 tvg-id="RedeMeioNorte.br@SD",Rede Meio Norte (720p)
-https://maystreaming.cloudecast.com/redemeio/index.m3u8
-#EXTINF:-1 tvg-id="RITTV.br@SD",RIT TV (1080p)
-https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:-1 tvg-id="RITTV.br@SD",RIT TV (720p)
-http://170.83.49.66:8083/RITHD/index.m3u8
-#EXTINF:-1 tvg-id="SESCTV.br@SD",SESC TV (720p)
-http://45.162.64.114/SESC_TV/index.m3u8
-#EXTINF:-1 tvg-id="SESCTV.br@SD",SESC TV (720p)
-http://170.83.49.66:8083/SESCTVHD/index.m3u8
-#EXTINF:-1 tvg-id="SESCTV.br@SD",SESC TV (720p)
-http://186.219.52.187/sesc_tv/index.m3u8
-#EXTINF:-1 tvg-id="SOUTV.br@SD",SOU TV
-https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
-#EXTINF:-1 tvg-id="Espn.br@SD",Espn (720p)
-https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/espn.m3u8
-#EXTINF:-1 tvg-id="SportTV2.br@SD",Sport TV 2 (720p)
-https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv2.m3u8
-#EXTINF:-1 tvg-id="PremiereClubes.br@SD",Premiere Clubes (720p)
-https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere2.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
-http://45.162.64.114/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
-http://170.83.16.50/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="STZTV.br@SD",STZ TV (1080p)
-https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="TCM10HD.br@SD",TCM 10 HD (1080p)
-https://live.tcm10.com.br/tcm10hd/stream.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br@SD",Terra Viva (720p)
-http://45.162.64.114/TERRAVIVA/index.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br@SD",Terra Viva (720p)
-http://45.177.114.115/TERRAVIVA/index.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br@SD",Terra Viva (720p)
-http://45.190.28.50/TERRA_VIVA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br@SD",Terra Viva (720p)
-http://138.255.2.6:8084/TERRAVIVA/index.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br@SD",Terra Viva (720p)
-http://168.197.104.22/TERRAVIVA/index.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br@SD",Terra Viva (720p)
-http://170.83.16.50/TERRA_VIVA/index.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br@SD",Terra Viva (720p)
-http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8
-#EXTINF:-1 tvg-id="TikTokRadioBrasil.br@HD",TikTok Radio Brasil (1080p)
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
-#EXTINF:-1 tvg-id="TimesBrasil.br@SD",Times Brasil (720p)
-http://45.190.28.50/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br@SD",Travel Box Brazil (720p)
-http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br@SD",Travel Box Brazil (720p)
-http://138.255.2.6:8084/TRAVELBOXBRASIL/index.m3u8
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br@SD",Travel Box Brazil (720p)
-http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br@SD",Travel Box Brazil (720p)
-http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
-#EXTINF:-1 tvg-id="TV3Curitiba.br@SD",TV 3 Curitiba
-https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
-#EXTINF:-1 tvg-id="TVACritica.br@SD",TV A Critica
-https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAFolha.br@SD",TV A Folha (720p)
-https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAliancaCatarinense.br@SD",TV Aliança Catarinense (720p)
-https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAlternativa.br@SD",TV Alternativa (410p)
-https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br@SD",TV Aparecida (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" group-title="TV ABERTA",TV Aparecida (1080p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br@SD",TV Aparecida (720p)
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" group-title="TV ABERTA",TV Aparecida (720p)
 http://45.162.64.114/TV_APARECIDA/index.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br@SD",TV Aparecida (720p)
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" group-title="TV ABERTA",TV Aparecida (720p)
 http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br@SD",TV Aparecida (720p)
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" group-title="TV ABERTA",TV Aparecida (720p)
 http://138.255.2.6:8084/TVAPARECIDA/index.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br@SD",TV Aparecida (720p)
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" group-title="TV ABERTA",TV Aparecida (720p)
 http://168.197.104.22/TV_APARECIDA/index.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br@SD",TV Aparecida (720p)
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" group-title="TV ABERTA",TV Aparecida (720p)
 http://170.83.16.50/TV_APARECIDA/index.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br@SD",TV Aparecida (720p)
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" group-title="TV ABERTA",TV Aparecida (720p)
 http://170.83.49.66:8083/TVAPARECIDAHD/index.m3u8
-#EXTINF:-1 tvg-id="TVArapuan.br@SD",TV Arapuan (720p)
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAssembleiaPiaui.br@SD",TV Assembleia Piaui
+#EXTINF:-1 tvg-id="TVAssembleiaPiaui.br@SD" group-title="TV ABERTA",TV Assembleia Piaui
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br@SD",TV Brasil (720p)
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" group-title="TV ABERTA",TV Brasil (720p)
 http://45.190.28.50/TV_BRASIL/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br@SD",TV Brasil (720p)
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" group-title="TV ABERTA",TV Brasil (720p)
 http://170.83.49.66:8083/TVBRASILHD/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br@SD",TV Brasil (720p)
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" group-title="TV ABERTA",TV Brasil (720p)
 http://170.84.165.204/TVBRASIL/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br@SD",TV Brasil (720p)
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" group-title="TV ABERTA",TV Brasil (720p)
 http://186.219.52.187/tv_brasil/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br@SD",TV Brasil (720p)
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" group-title="TV ABERTA",TV Brasil (720p)
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasilOeste.br@SD",TV Brasil Oeste (720p)
+#EXTINF:-1 tvg-id="TVBrasilOeste.br@SD" group-title="TV ABERTA",TV Brasil Oeste (720p)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBrusque.br@SD",TV Brusque (720p)
-https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br@SD",TV Camara (720p)
+#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="TV ABERTA",TV Camara (720p)
 http://45.162.64.114/TV_CAMARA/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br@SD",TV Camara (720p)
+#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="TV ABERTA",TV Camara (720p)
 http://45.190.28.50/TV_CAMARA/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br@SD",TV Camara (720p)
+#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="TV ABERTA",TV Camara (720p)
 http://138.255.2.6:8084/TVCAMARA/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br@SD",TV Camara (720p)
+#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="TV ABERTA",TV Camara (720p)
 http://168.197.104.22/TV_CAMARA/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br@SD",TV Camara (720p)
+#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="TV ABERTA",TV Camara (720p)
 http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br@SD",TV Camara (720p)
+#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="TV ABERTA",TV Camara (720p)
 http://186.219.52.187/tv_camara/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br@SD",TV Câmara (1080p)
+#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="TV ABERTA",TV Câmara (1080p)
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNova.br@SD",TV Cancao Nova (720p)
-http://45.162.64.114/CANCAO_NOVA/index.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNova.br@SD",TV Cancao Nova (720p)
-http://45.190.28.50/CANCAO_NOVA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNova.br@SD",TV Cancao Nova (720p)
-http://138.255.2.6:8084/CANCAONOVA/index.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNova.br@SD",TV Cancao Nova (720p)
-http://168.197.104.22/CANCAO_NOVA/index.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNova.br@SD",TV Cancao Nova (720p)
-http://170.83.16.50/CANCAO_NOVA/index.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNova.br@SD",TV Cancao Nova (720p)
-http://186.219.52.187/cancao_nova/index.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNova.br@SD",TV Cancao Nova (720p)
-https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCidadeVerdeCuiaba.br@SD",TV Cidade Verde Cuiaba
+#EXTINF:-1 tvg-id="TVCidadeVerdeCuiaba.br@SD" group-title="TV ABERTA",TV Cidade Verde Cuiaba
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
+#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura (720p)
 http://45.162.64.114/TV_CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
+#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura (720p)
 http://45.177.114.115/TV_CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
+#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura (720p)
 http://45.190.28.50/TV_CULTURA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
+#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura (720p)
 http://138.255.2.6:8084/CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
+#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura (720p)
 http://168.197.104.22/TV_CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
+#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura (720p)
 http://170.83.16.50/CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
+#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura (720p)
 http://170.84.165.204/CULTURA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
+#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura (720p)
 https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
-#EXTINF:-1 tvg-id="TVCuruca.br@SD",TV Curuça (360p)
-https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVDifusao.br@SD",TV Difusao (720p)
-https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVEscola.br@SD",TV Escola (720p)
+#EXTINF:-1 tvg-id="TVEscola.br@SD" group-title="TV ABERTA",TV Escola (720p)
 http://45.190.28.50/TV_ESCOLA/index.m3u8
-#EXTINF:-1 tvg-id="TVEvangelizar.br@SD",TV Evangelizar (720p)
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" group-title="TV ABERTA",TV Evangelizar (720p)
 http://45.162.64.114/EVANGELIZAR/index.m3u8
-#EXTINF:-1 tvg-id="TVEvangelizar.br@SD",TV Evangelizar (720p)
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" group-title="TV ABERTA",TV Evangelizar (720p)
 http://45.190.28.50/TV_EVANGELIZAR/index.m3u8
-#EXTINF:-1 tvg-id="TVEvangelizar.br@SD",TV Evangelizar (720p)
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" group-title="TV ABERTA",TV Evangelizar (720p)
 http://168.197.104.22/EVANGELIZAR/index.m3u8
-#EXTINF:-1 tvg-id="TVEvangelizar.br@SD",TV Evangelizar (720p)
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" group-title="TV ABERTA",TV Evangelizar (720p)
 http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
-#EXTINF:-1 tvg-id="TVEvangelizar.br@SD",TV Evangelizar (720p)
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" group-title="TV ABERTA",TV Evangelizar (720p)
 http://170.83.49.66:8083/EVANGELIZARHD/index.m3u8
-#EXTINF:-1 tvg-id="TVEvangelizar.br@SD",TV Evangelizar (720p)
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" group-title="TV ABERTA",TV Evangelizar (720p)
 http://186.219.52.187/tv_evangelizar/index.m3u8
-#EXTINF:-1 tvg-id="TVFronteira.br@SD",TV Fronteira (480i)
-https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD",TV Gazeta (720p)
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta (720p)
 http://45.162.64.114/GAZETA/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD",TV Gazeta (720p)
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta (720p)
 http://45.162.64.114/TV_GAZETA/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD",TV Gazeta (720p)
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta (720p)
 http://45.190.28.50/GAZETA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD",TV Gazeta (720p)
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta (720p)
 http://138.255.2.6:8084/GAZETA/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD",TV Gazeta (720p)
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta (720p)
 http://168.197.104.22/GAZETA/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD",TV Gazeta (720p)
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta (720p)
 http://170.84.165.204/Gazeta_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD",TV Gazeta (720p)
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta (720p)
 http://186.219.52.187/gazeta/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD",TV Gazeta (720p)
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta (720p)
 https://tv.nuvemplay.live/hls/40gtv/stream.m3u8
-#EXTINF:-1 tvg-id="TVGRANDENATALHDTVBRASIL.br@SD",TV Grande Natal (1080p)
-http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:-1 tvg-id="TVGuara.br@SD",TV Guará (720p) [Not 24/7]
-https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
-#EXTINF:-1 tvg-id="TVJustica.br@SD",TV Justica (720p)
+#EXTINF:-1 tvg-id="TVJustica.br@SD" group-title="TV ABERTA",TV Justica (720p)
 http://45.162.64.114/TV_JUSTICA/index.m3u8
-#EXTINF:-1 tvg-id="TVJustica.br@SD",TV Justica (720p)
+#EXTINF:-1 tvg-id="TVJustica.br@SD" group-title="TV ABERTA",TV Justica (720p)
 http://45.190.28.50/TV_JUSTICA/index.m3u8
-#EXTINF:-1 tvg-id="TVJustica.br@SD",TV Justica (720p)
+#EXTINF:-1 tvg-id="TVJustica.br@SD" group-title="TV ABERTA",TV Justica (720p)
 http://138.255.2.6:8084/TVJUSTICA/index.m3u8
-#EXTINF:-1 tvg-id="TVJustica.br@SD",TV Justica (720p)
+#EXTINF:-1 tvg-id="TVJustica.br@SD" group-title="TV ABERTA",TV Justica (720p)
 http://168.197.104.22/TV_JUSTICA/index.m3u8
-#EXTINF:-1 tvg-id="TVJustica.br@SD",TV Justica (720p)
+#EXTINF:-1 tvg-id="TVJustica.br@SD" group-title="TV ABERTA",TV Justica (720p)
 http://170.83.16.50/TV_JUSTICA/index.m3u8
-#EXTINF:-1 tvg-id="TVJustica.br@SD",TV Justica (720p)
+#EXTINF:-1 tvg-id="TVJustica.br@SD" group-title="TV ABERTA",TV Justica (720p)
 http://170.83.49.66:8083/TVJUSTICAHD/index.m3u8
-#EXTINF:-1 tvg-id="TVJustica.br@SD",TV Justica (720p)
+#EXTINF:-1 tvg-id="TVJustica.br@SD" group-title="TV ABERTA",TV Justica (720p)
 http://186.219.52.187/tv_justica/index.m3u8
-#EXTINF:-1 tvg-id="TVLifeAmerica.br@HD",TV Life America (720p)
-https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
-#EXTINF:-1 tvg-id="TVLitoralRN.br@SD",TV Litoral RN (720p)
-https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMaisMarica.br@SD",TV Mais Maricá (1080p)
-https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMarajoara.br@SD",TV Marajoara (720p)
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMetropole.br@SD",TV Metropole (720p) [Not 24/7]
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-id="TVNatal.br@SD",TV Natal (1080p)
-http://185.228.163.146:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="TVPadreCicero.br@SD",TV Padre Cicero (720p)
-https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPaiEterno.br@SD",TV Pai Eterno (720p)
-http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
-#EXTINF:-1 tvg-id="TVPaiEterno.br@SD",TV Pai Eterno (720p)
-http://45.190.28.50/PAI_ETERNO/index.m3u8
-#EXTINF:-1 tvg-id="TVPaiEterno.br@SD",TV Pai Eterno (720p)
-http://168.197.104.22/TV_PAI_ETERNO/index.m3u8
-#EXTINF:-1 tvg-id="TVPaiEterno.br@SD",TV Pai Eterno (720p)
-http://186.219.52.187/pai_eterno/index.m3u8
-#EXTINF:-1 tvg-id="TVPaiEterno.br@SD",TV Pai Eterno (720p)
-https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
-#EXTINF:-1 tvg-id="TVParaense.br@HD",TV Paraense (720p)
-https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
-#EXTINF:-1 tvg-id="TVParanaTurismo.br@SD",TV Paraná Turismo (720p) [Not 24/7]
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-id="TVPetropolis.br@SD",TV Petropolis (720p)
-https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
-#EXTINF:-1 tvg-id="TVProfissao.br@SD",TV Profissao
-https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRaTimBum.br@SD",TV Ra Tim Bum (720p)
-http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8
-#EXTINF:-1 tvg-id="TVRaTimBum.br@SD",TV Ra Tim Bum (720p)
-http://45.190.28.50/RATIMBUM/index.m3u8
-#EXTINF:-1 tvg-id="TVRaTimBum.br@SD",TV Ra Tim Bum (720p)
-http://168.197.104.22/RA_TIM_BUM/index.m3u8
-#EXTINF:-1 tvg-id="TVRaTimBum.br@SD",TV Ra Tim Bum (720p)
-http://170.83.49.66:8083/TVRATIMBUMHD/index.m3u8
-#EXTINF:-1 tvg-id="TVRaTimBum.br@SD",TV Ra Tim Bum (720p)
-http://186.219.52.187/ratimbum/index.m3u8
-#EXTINF:-1 tvg-id="TVRaTimBum.br@SD",TV Ra Tim Bum (576p)
-http://45.162.64.114/RA_TIM_BUM/index.m3u8
-#EXTINF:-1 tvg-id="TVSaoRaimundo.br@SD",TV São Raimundo (268p)
-https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD",TV Senado (720p)
+#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="TV ABERTA",TV Senado (720p)
 http://45.162.64.114/TV_SENADO/index.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD",TV Senado (720p)
+#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="TV ABERTA",TV Senado (720p)
 http://45.190.28.50/TV_SENADO/index.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD",TV Senado (720p)
+#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="TV ABERTA",TV Senado (720p)
 http://138.255.2.6:8084/TVSENADO/index.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD",TV Senado (720p)
+#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="TV ABERTA",TV Senado (720p)
 http://168.197.104.22/TV_SENADO/index.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD",TV Senado (720p)
+#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="TV ABERTA",TV Senado (720p)
 http://170.83.16.50/TV_SENADO/index.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD",TV Senado (720p)
+#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="TV ABERTA",TV Senado (720p)
 http://170.83.49.66:8083/TVSENADOHD/index.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD",TV Senado (720p)
+#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="TV ABERTA",TV Senado (720p)
 http://186.219.52.187/tv_senado/index.m3u8
-#EXTINF:-1 tvg-id="TVSeries.br@SD",TV Series 1 As Panteras (480p)
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-id="TVShowFortaleza.br@SD",TV Show Fortaleza (720p)
-https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSimCachoeiro.br@SD",TV Sim Cachoeiro (720p)
-https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSimSaoMateus.br@SD",TV Sim São Mateus (720p)
-https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSulBahia.br@SD",TV Sul Bahia (320p)
-https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSuldeMinas.br@SD",TV Sul de Minas (720p)
-https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTerceiroAnjo.br@SD",TV Terceiro Anjo (360p)
-https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUFOP.br@HD",TV UFOP (1080p)
-https://app.tvufop.com.br/hls/tvufop.m3u8
-#EXTINF:-1 tvg-id="TVUniversal.br@SD",TV Universal (480p)
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVVilaReal.br@SD",TV Vila Real (720p)
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-id="TVZoom.br@SD",TV Zoom (720p)
-https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPlusPet.br@SD",TV+Pet
-https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCRio.br@SD",TVC-Rio
-https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
-#EXTINF:-1 tvg-id="TVComunitaria.br@SD",TVCOM DF (360p)
-https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="TVCOMMaceio.br@SD",TVCOM Maceió (480p)
-https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
-#EXTINF:-1 tvg-id="TVECultura.br@SD",TVE Cultura (720p)
-http://45.190.28.50/TVE/index.m3u8
-#EXTINF:-1 tvg-id="TVEBahia.br@SD",TVE RS (1080p)
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="TVERS.br@SD",TVE RS (1080p)
-https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="TVideoNews.br@SD",TVídeoNews (720p) [Not 24/7]
-https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-#EXTINF:-1 tvg-id="TVitape.br@SD",TVitapé (720p)
-https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
-#EXTINF:-1 tvg-id="TVLatinaSat.br@HD",TVLatinaSat (720p)
-https://www.latinasat.com.br/hls/live/stream/index.m3u8
-#EXTINF:-1 tvg-id="TVNBN.br@SD",TVNBN (720p)
-https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-#EXTINF:-1 tvg-id="UMATV.br@HD",UMA TV
-https://umatv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="UnisulTV.br@SD",UNISUL TV (720p)
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
-#EXTINF:-1 tvg-id="VEJAPlusTV.br@HD",VEJA+ TV (1080p)
-https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
-#EXTINF:-1 tvg-id="WooHoo.br@SD",WooHoo (720p)
-http://45.162.64.114/WOOHOO/index.m3u8
-#EXTINF:-1 tvg-id="WooHoo.br@SD",WooHoo (720p)
-http://168.197.104.22/WOOHOO/index.m3u8
-#EXTINF:-1 tvg-id="WooHoo.br@SD",WooHoo (720p)
-http://170.83.16.50/WOOHOO/index.m3u8
-#EXTINF:-1 tvg-id="WooHoo.br@SD",WooHoo (720p)
-http://186.219.52.187/woohoo/index.m3u8
-#EXTINF:-1 tvg-id="LamoreRockShowWebTV.br@SD",Lamore Rock Show WebTV (720p)
-https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD",Rede TV! (720p)
+#EXTINF:-1 tvg-id="RedeTV.br@SD" group-title="TV ABERTA",Rede TV! (720p)
 http://170.83.16.50/REDE_TV/index.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD",Rede TV! (720p)
+#EXTINF:-1 tvg-id="RedeTV.br@SD" group-title="TV ABERTA",Rede TV! (720p)
 http://170.83.49.66:8083/REDETVHD/index.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD",Rede TV! (720p)
+#EXTINF:-1 tvg-id="RedeTV.br@SD" group-title="TV ABERTA",Rede TV! (720p)
 http://186.219.52.187/rede_tv/index.m3u8
-#EXTINF:-1 tvg-id="RedeTVMais.br@SD",Rede TV! Mais
+#EXTINF:-1 tvg-id="RedeTVMais.br@SD" group-title="TV ABERTA",Rede TV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeVida.br@SD",Rede Vida (720p)
-http://45.190.28.50/REDE_VIDA_HD/index.m3u8
-#EXTINF:-1 tvg-id="RedeVida.br@SD",Rede Vida (720p)
-http://138.255.2.6:8084/REDEVIDA/index.m3u8
-#EXTINF:-1 tvg-id="RedeVida.br@SD",Rede Vida (720p)
-http://168.197.104.22/REDE_VIDA/index.m3u8
-#EXTINF:-1 tvg-id="RedeVida.br@SD",Rede Vida (720p)
-http://170.84.165.204/REDEVIDA_HD/index.m3u8
-#EXTINF:-1 tvg-id="RedeVida.br@SD",Rede Vida (720p)
-http://186.219.52.187/rede_vida/index.m3u8
-#EXTINF:-1 tvg-id="RedeTVParana.br@SD",RedeTV! Parana
-https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-id="AgroMais.br@SD",AgroMais (720p)
-http://45.162.64.114/AGROMAIS/index.m3u8
-#EXTINF:-1 tvg-id="AgroMais.br@SD",AgroMais (720p)
-http://45.177.114.115/agromais/index.m3u8
-#EXTINF:-1 tvg-id="AgroMais.br@SD",AgroMais (720p)
-http://45.177.114.115/AGROMAIS_HD/index.m3u8
-#EXTINF:-1 tvg-id="AgroMais.br@SD",AgroMais (720p)
-http://45.190.28.50/AGROMAIS_HD/index.m3u8
-#EXTINF:-1 tvg-id="AgroMais.br@SD",AgroMais (720p)
-http://138.255.2.6:8084/AGROMAIS/index.m3u8
-#EXTINF:-1 tvg-id="AgroMais.br@SD",AgroMais (720p)
-http://168.197.104.22/AGROMAIS/index.m3u8
-#EXTINF:-1 tvg-id="AgroMais.br@SD",AgroMais (720p)
-http://170.83.16.50/AGRO_MAIS/index.m3u8
-#EXTINF:-1 tvg-id="AmazonSat.br@SD",Amazon Sat (1080p)
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-id="ArarunaTV.br@SD",Araruna TV
-https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
-#EXTINF:-1 tvg-id="AratuOn.br@SD",Aratu On
-https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
-#EXTINF:-1 tvg-id="Arte1.br@SD",Arte 1 (720p)
-http://45.162.64.114/ARTE1/index.m3u8
-#EXTINF:-1 tvg-id="Arte1.br@SD",Arte 1 (720p)
-http://45.177.114.115/ARTE1/index.m3u8
-#EXTINF:-1 tvg-id="Arte1.br@SD",Arte 1 (720p)
-http://45.190.28.50/ARTE_1/index.m3u8
-#EXTINF:-1 tvg-id="Arte1.br@SD",Arte 1 (720p)
-http://168.197.104.22/ARTE1/index.m3u8
-#EXTINF:-1 tvg-id="Arte1.br@SD",Arte 1 (720p)
-http://170.83.16.50/ARTE_1/index.m3u8
-#EXTINF:-1 tvg-id="AWTV.br@HD",AWTV (1080p) [Geo-blocked]
-https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AXN.br@SD",AXN (720p)
-http://45.190.28.50/AXN_HD/index.m3u8
-#EXTINF:-1 tvg-id="AXN.br@SD",AXN (720p)
-http://138.255.2.6:8084/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AXN.br@SD",AXN (720p)
-http://170.83.16.50/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AXN.br@SD",AXN (720p)
-http://170.83.49.66:8083/AXNHD/index.m3u8
-#EXTINF:-1 tvg-id="Band.br@SD",Band (720p)
+#EXTINF:-1 tvg-id="Band.br@SD" group-title="TV ABERTA",Band (720p)
 https://dai.google.com/linear/hls/pa/event/f0Tz47QTSQy_RsfSP_WcSA/stream/72515950-4b9b-43f5-a6fc-13bc91041499:SCL2/variant/db41dabc175aace8c60ccd8dd182f588/bandwidth/4728000.m3u8
-#EXTINF:-1 tvg-id="Band.br@SD",Band (720p)
-https://dai.google.com/linear/hls/pa/event/f0Tz47QTSQy_RsfSP_WcSA/stream/72515950-4b9b-43f5-a6fc-13bc91041499:SCL2/variant/db41dabc175aace8c60ccd8dd182f588/bandwidth/4728000.m3u8
-#EXTINF:-1 tvg-id="Band.br@SD",Band (720p)
-https://dai.google.com/linear/hls/pa/event/f0Tz47QTSQy_RsfSP_WcSA/stream/72515950-4b9b-43f5-a6fc-13bc91041499:SCL2/variant/db41dabc175aace8c60ccd8dd182f588/bandwidth/4728000.m3u8
-#EXTINF:-1 tvg-id="Band.br@SD",Band (576p)
-https://dai.google.com/linear/hls/pa/event/f0Tz47QTSQy_RsfSP_WcSA/stream/72515950-4b9b-43f5-a6fc-13bc91041499:SCL2/variant/db41dabc175aace8c60ccd8dd182f588/bandwidth/4728000.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD",BandNews (720p)
-http://45.162.64.114/BAND_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD",BandNews (720p)
-http://45.177.114.115/BAND_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD",BandNews (720p)
-http://45.190.28.50/BAND_NEWS_HD/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD",BandNews (720p)
-http://168.197.104.22/BAND_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD",BandNews (720p)
-http://170.83.16.50/BAND_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD",BandNews (720p)
-http://170.83.49.66:8083/BANDNEWSHD/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD",BandNews (720p)
-http://177.52.24.163/BAND-NEWS-HD/index.m3u8
-#EXTINF:-1 tvg-id="Blitstv.br@SD",Blitstv
-https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
-#EXTINF:-1 tvg-id="BoasNovas.br@SD",Boas Novas (1080p)
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
-#EXTINF:-1 tvg-id="BoxKidsTV.br@SD",Box Kids TV (720p)
-http://45.190.28.50/BOX_KIDS_HD/index.m3u8
-#EXTINF:-1 tvg-id="BR8TV.br@SD",BR8 TV
-https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
-#EXTINF:-1 tvg-id="CaboFrioTV.br@SD",Cabo Frio TV (720p)
-https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal25Jundiai.br@SD",Canal 25 Jundiaí (404p) [Not 24/7]
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-id="Canal38.br@SD",Canal 38 (720p)
-https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br@SD",Canal do Boi (720p)
-http://45.162.64.114/CANAL_DO_BOI/index.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br@SD",Canal do Boi (720p)
-http://45.190.28.50/CANAL_DO_BOI/index.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br@SD",Canal do Boi (720p)
-http://168.197.104.22/CANAL_DO_BOI/index.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br@SD",Canal do Boi (720p)
-http://170.83.16.50/CANAL_DO_BOI/index.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br@SD",Canal do Boi (720p)
-http://170.83.49.66:8083/CANALDOBOIHD/index.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br@SD",Canal do Boi (720p)
-http://186.219.52.187/canal_do_boi/index.m3u8
-#EXTINF:-1 tvg-id="CanalEducacao.br@SD",Canal Educacao (720p)
-http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
-#EXTINF:-1 tvg-id="CanalEducacao.br@SD",Canal Educacao (720p)
-http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
-#EXTINF:-1 tvg-id="CanalEducacao.br@SD",Canal Educacao (720p)
-http://168.197.104.22/CANAL_EDUCACAO/index.m3u8
-#EXTINF:-1 tvg-id="CanalEducacao.br@SD",Canal Educação (720p)
-https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="CanalFDR.br@SD",Canal FDR
-https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
-#EXTINF:-1 tvg-id="CanalFutura.br@SD",Canal Futura (720p)
-http://45.162.64.114/FUTURA/index.m3u8
-#EXTINF:-1 tvg-id="CanalFutura.br@SD",Canal Futura (720p)
-http://170.83.16.50/FUTURA/index.m3u8
-#EXTINF:-1 tvg-id="CanalFutura.br@SD",Canal Futura (720p)
-http://186.219.52.187/futura/index.m3u8
-#EXTINF:-1 tvg-id="CanalGov.br@SD",Canal Gov (720p)
-http://168.197.104.22/TV_BRASIL_2/index.m3u8
-#EXTINF:-1 tvg-id="CanalGov.br@SD",Canal Gov (720p)
-http://45.177.114.115/TV_BRASIL_2/index.m3u8
-#EXTINF:-1 tvg-id="CanalGov.br@SD",Canal Gov (720p)
-https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br@SD",Canal Metropolitano de Noticias
-https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalRural.br@SD",Canal Rural (1080p)
-https://cdn2.easy.tv.br/canalrural/index.m3u8
-#EXTINF:-1 tvg-id="CanalRural.br@SD",Canal Rural (720p)
-http://170.83.49.66:8083/CANALRURALHD/index.m3u8
-#EXTINF:-1 tvg-id="CanalRural.br@SD",Canal Rural (720p)
-http://186.219.52.187/canal_rural/index.m3u8
-#EXTINF:-1 tvg-id="CanalSaude.br@SD",Canal Saude
-https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
-#EXTINF:-1 tvg-id="CanalSete.br@SD",Canal Sete
-http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalUOL.br@SD",Canal UOL (1080p)
-https://video24.mais.uol.com.br/live/6146.m3u8
-#EXTINF:-1 tvg-id="CatveMasterTV.br@SD",Catve Master TV (720p) [Not 24/7]
-https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="CazeTV.br@SD",CazeTV (720p)
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/720p-cc/index.m3u8
-#EXTINF:-1 tvg-id="Nsports.br@SD",N Sports (720p)
-https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
-#EXTINF:-1 tvg-id="ChefTV.br@SD",Chef TV (720p)
-http://45.190.28.50/CHEF_TV/index.m3u8
-#EXTINF:-1 tvg-id="ChefTV.br@SD",Chef TV (720p)
-http://168.197.104.22/CHEF_TV/index.m3u8
-#EXTINF:-1 tvg-id="CINDIETV.br@HD",CINDIE TV (1080p)
-https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
-#EXTINF:-1 tvg-id="CinturaoVerde.br@SD",Cinturao Verde
-https://play.redecinturaoverde.com.br/playlist.m3u8
-#EXTINF:-1 tvg-id="CinturaoVerde.br@SD",Cinturao Verde
-https://play.redecinturaoverde.com.br/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTV.br@SD",Classique TV (360p)
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-id="COMBrasil.br@SD",COM Brasil (1080p) [Not 24/7]
-https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 tvg-id="COMBrasil.br@SD",COM Brasil (720p)
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
-#EXTINF:-1 tvg-id="ConectaMaisTV.br@SD",Conecta Mais TV (720p)
-https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
-#EXTINF:-1 tvg-id="ConecTVBrasil.br@SD",ConecTV Brasil (720p)
+#EXTINF:-1 tvg-id="ConecTVBrasil.br@SD" group-title="TV ABERTA",ConecTV Brasil (720p)
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 tvg-id="CulturaFast.br@SD",Cultura Fast (720p)
-https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
-#EXTINF:-1 tvg-id="CulturaPara.br@SD",Cultura Para (720p)
-http://170.84.165.204/CANAL_21_HD/index.m3u8
-#EXTINF:-1 tvg-id="CulturaPara.br@SD",Cultura Pará (480p) [Not 24/7]
-http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1 tvg-id="DemaisTV.br@SD",Demais TV (720p)
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1 tvg-id="DespertarTV.br@HD",Despertar TV (720p)
-https://br.conectmy.com.br/DespertarTV/index.m3u8
-#EXTINF:-1 tvg-id="DumDum.br@SD",DumDum (720p)
-http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
-#EXTINF:-1 tvg-id="DumDum.br@SD",DumDum (720p)
-http://138.255.2.6:8084/ZOOMOO/index.m3u8
-#EXTINF:-1 tvg-id="DumDum.br@SD",DumDum (720p)
-http://168.197.104.22/ZOOMOO/index.m3u8
-#EXTINF:-1 tvg-id="DumDum.br@SD",DumDum (720p)
-http://186.219.52.187/zoomoo/index.m3u8
-#EXTINF:-1 tvg-id="ElementalChannel.br@SD",Elemental Channel
-https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
-#EXTINF:-1 tvg-id="ElyTV.br@SD",ElyTV (360p)
-https://stmv1.srvsite.com/ely/ely/playlist.m3u8
-#EXTINF:-1 tvg-id="EUTV.br@SD",EUTV (720p)
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-id="EUTV.br@SD",EUTV
-https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTV.br@SD",FashionTV (720p)
-http://45.190.28.50/FASHION_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="FishTV.br@SD",Fish TV (720p)
-http://45.162.64.114/FISH_TV/index.m3u8
-#EXTINF:-1 tvg-id="FishTV.br@SD",Fish TV (720p)
-http://45.190.28.50/FISH_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="FishTV.br@SD",Fish TV (720p)
-http://168.197.104.22/FISH_TV/index.m3u8
-#EXTINF:-1 tvg-id="FishTV.br@SD",Fish TV (720p)
-http://170.83.16.50/FISH_TV/index.m3u8
-#EXTINF:-1 tvg-id="FonteTV.br@SD",Fonte TV (1080p) [Not 24/7]
-http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1 tvg-id="FonteTV.br@SD",Fonte TV
-https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
-#EXTINF:-1 tvg-id="ForaTedioTV.br@SD",Fora Tedio TV (720p)
-https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
-#EXTINF:-1 tvg-id="GospelCartoon.br@SD",Gospel Cartoon (360p)
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 tvg-id="GospelMovieTV.br@SD",Gospel Movie TV (360p)
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-id="History.br@SD",History (720p)
-http://45.177.114.114/HISTORY/index.m3u8
-#EXTINF:-1 tvg-id="History.br@SD",History (720p)
-http://45.190.28.50/HISTORY_HD/index.m3u8
-#EXTINF:-1 tvg-id="History.br@SD",History (720p)
-http://170.83.16.50/HISTORY/index.m3u8
-#EXTINF:-1 tvg-id="IMPDTVWorldwide.br@SD",IMPD TV Worldwide (1080p)
-https://igrejamundial.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="J3NEWSTV.br@SD",J3NEWS TV
-https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
-#EXTINF:-1 tvg-id="JovemPanNews.br@SD",Jovem Pan News (720p)
-http://45.190.28.50/JP_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="JovemPanNews.br@SD",Jovem Pan News (720p)
-http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
-#EXTINF:-1 tvg-id="JovemPanNews.br@SD",Jovem Pan News (720p)
-http://186.219.52.187/jp_news/index.m3u8
-#EXTINF:-1 tvg-id="KuriakosCine.pt@SD",Kuriakos Cine (1080p)
-https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KuriakosKids.pt@SD",Kuriakos Kids (1080p)
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Lke.br@SD",L!ke (1080p)
-https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
-#EXTINF:-1 tvg-id="LaboralTV.br@SD",Laboral TV (360p)
-https://tv.laboralsst.com.br/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Loading.br@SD",Loading (720p)
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="MBCBrasilTV.br@SD",MBC Brasil TV
-https://play.mbcbrasil.tv.br/playlist.m3u8
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD",Music Box Brazil (720p)
-http://45.190.28.50/MUSIC_BOX_HD/index.m3u8
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD",Music Box Brazil (720p)
-http://168.197.104.22/MUSIC/index.m3u8
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD",Music Box Brazil (720p)
-http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
-#EXTINF:-1 tvg-id="NSports.br@SD",N Sports (1080p)
-https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
-#EXTINF:-1 tvg-id="NickOnline.br@HD",NickOnline HD (720p)
-https://x1colegal.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="NickToonsBrasil.br@SD",NickToons Brasil (480p)
-https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
-#EXTINF:-1 tvg-id="NovaEraTV.br@SD",Nova Era TV (1080p) [Not 24/7]
-http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 tvg-id="NovoTempo.br@SD",Novo Tempo (720p)
-http://45.162.64.114/NOVO_TEMPO/index.m3u8
-#EXTINF:-1 tvg-id="NovoTempo.br@SD",Novo Tempo (720p)
-http://45.190.28.50/TV_NOVO_TEMPO/index.m3u8
-#EXTINF:-1 tvg-id="NovoTempo.br@SD",Novo Tempo (720p)
-http://168.197.104.22/NOVO_TEMPO/index.m3u8
-#EXTINF:-1 tvg-id="NovoTempo.br@SD",Novo Tempo (720p)
-http://186.219.52.187/novo_tempo/index.m3u8
-#EXTINF:-1 tvg-id="NTV.br@SD",NTV (720p)
-https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
-#EXTINF:-1 tvg-id="ODiaTV.br@SD",O Dia TV
-https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
-#EXTINF:-1 tvg-id="PetloversTV.br@SD",Petlovers TV
-https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlayTV.br@SD",Play TV (720p)
-http://45.162.64.114/PLAY_TV/index.m3u8
-#EXTINF:-1 tvg-id="PlayTV.br@SD",Play TV (720p)
-http://45.177.114.115/PLAY_TV/index.m3u8
-#EXTINF:-1 tvg-id="PlayTV.br@SD",Play TV (720p)
-http://168.197.104.22/PLAY_TV/index.m3u8
-#EXTINF:-1 tvg-id="PlayTV.br@SD",Play TV (720p)
-https://isaocorp.cloudecast.com/playtv/index.m3u8
-#EXTINF:-1 tvg-id="PlenaTV.br@SD",Plena TV (720p)
-https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1 tvg-id="PlenitudeTV.br@SD",Plenitude TV
-https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimerTV.br@SD",Primer TV (1080p)
-http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1 tvg-id="RBATV.br@SD",RBATV (720p)
-https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-#EXTINF:-1 tvg-id="RCTVBrasil.br@SD",RCTV Brasil
+#EXTINF:-1 tvg-id="RCTVBrasil.br@SD" group-title="TV ABERTA",RCTV Brasil
 https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br@SD",Rede Brasil (1080p)
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br@SD",Rede Brasil (720p)
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br@SD",Rede Brasil (720p)
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Megapix.br@SD",Megapix (720p)
+
+# --- NOTÍCIAS ---
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News (720p)
+http://45.162.64.114/RECORD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News (720p)
+http://45.177.114.115/RECORD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News (720p)
+http://168.197.104.22/RECORD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News (720p)
+http://170.83.16.50/RECORD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News (720p)
+http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News (720p)
+http://186.219.52.187/record_news/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News (720p)
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="TVideoNews.br@SD" group-title="NOTÍCIAS",TVídeoNews (720p) [Not 24/7]
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="NOTÍCIAS",BandNews (720p)
+http://45.162.64.114/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="NOTÍCIAS",BandNews (720p)
+http://45.177.114.115/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="NOTÍCIAS",BandNews (720p)
+http://45.190.28.50/BAND_NEWS_HD/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="NOTÍCIAS",BandNews (720p)
+http://168.197.104.22/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="NOTÍCIAS",BandNews (720p)
+http://170.83.16.50/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="NOTÍCIAS",BandNews (720p)
+http://170.83.49.66:8083/BANDNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="NOTÍCIAS",BandNews (720p)
+http://177.52.24.163/BAND-NEWS-HD/index.m3u8
+#EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br@SD" group-title="NOTÍCIAS",Canal Metropolitano de Noticias
+https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:-1 tvg-id="J3NEWSTV.br@SD" group-title="NOTÍCIAS",J3NEWS TV
+https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD" group-title="NOTÍCIAS",Jovem Pan News (720p)
+http://45.190.28.50/JP_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD" group-title="NOTÍCIAS",Jovem Pan News (720p)
+http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD" group-title="NOTÍCIAS",Jovem Pan News (720p)
+http://186.219.52.187/jp_news/index.m3u8
+
+# --- ESPORTES ---
+#EXTINF:-1 tvg-id="Espn.br@SD" group-title="ESPORTES",Espn (720p)
+https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/espn.m3u8
+#EXTINF:-1 tvg-id="SportTV2.br@SD" group-title="ESPORTES",Sport TV 2 (720p)
+https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv2.m3u8
+#EXTINF:-1 tvg-id="PremiereClubes.br@SD" group-title="ESPORTES",Premiere Clubes (720p)
+https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere2.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD" group-title="ESPORTES",Band Sports (720p)
+http://45.162.64.114/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD" group-title="ESPORTES",Band Sports (720p)
+http://170.83.16.50/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="CazeTV.br@SD" group-title="ESPORTES",CazeTV (720p)
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/720p-cc/index.m3u8
+#EXTINF:-1 tvg-id="Nsports.br@SD" group-title="ESPORTES",N Sports (720p)
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+#EXTINF:-1 tvg-id="NSports.br@SD" group-title="ESPORTES",N Sports (1080p)
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
+
+# --- FILMES E SÉRIES ---
+#EXTINF:-1 tvg-id="TVSeries.br@SD" group-title="FILMES E SÉRIES",TV Series 1 As Panteras (480p)
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br@SD" group-title="FILMES E SÉRIES",Canal Educação (720p)
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="KuriakosCine.pt@SD" group-title="FILMES E SÉRIES",Kuriakos Cine (1080p)
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Megapix.br@SD" group-title="FILMES E SÉRIES",Megapix (720p)
 https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/megapix.m3u8
-#EXTINF:-1 tvg-id="TelecinePipoca.br@SD",Telecine Pipoca (720p)
+#EXTINF:-1 tvg-id="TelecinePipoca.br@SD" group-title="FILMES E SÉRIES",Telecine Pipoca (720p)
 https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepipoca.m3u8
-#EXTINF:-1 tvg-id="TelecineFun.br@SD",Telecine Fun (720p)
+#EXTINF:-1 tvg-id="TelecineFun.br@SD" group-title="FILMES E SÉRIES",Telecine Fun (720p)
 https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/fb653f2357708a20cecc3f0e58d3f287/telecinefun.m3u8
-#EXTINF:-1 tvg-id="TelecineCult.br@SD",Telecine Cult (720p)
+#EXTINF:-1 tvg-id="TelecineCult.br@SD" group-title="FILMES E SÉRIES",Telecine Cult (720p)
 https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/d2efd6f9e10ba821898e7dd768fff83e/telecinecult.m3u8
-#EXTINF:-1 tvg-id="TelecineAction.br@SD",Telecine Action (720p)
+#EXTINF:-1 tvg-id="TelecineAction.br@SD" group-title="FILMES E SÉRIES",Telecine Action (720p)
 https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/eaf439ba6c7c055ca7618d373e8b6cf5/telecineaction.m3u8
-#EXTINF:-1 tvg-id="TelecinePremium.br@SD",Telecine Premium (720p)
+#EXTINF:-1 tvg-id="TelecinePremium.br@SD" group-title="FILMES E SÉRIES",Telecine Premium (720p)
 https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/4f7b4fdfe03f0cc3ed79f5a16945c221/telecinepremium.m3u8
-#EXTINF:-1 tvg-id="TelecineTouch.br@SD",Telecine Touch (720p)
+#EXTINF:-1 tvg-id="TelecineTouch.br@SD" group-title="FILMES E SÉRIES",Telecine Touch (720p)
 https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/c77a1388ed4980c04d16b61c69cfe096/telecinetouch.m3u8
-#EXTINF:-1 tvg-id="TNT.br@SD",TNT (720p)
+#EXTINF:-1 tvg-id="TNT.br@SD" group-title="FILMES E SÉRIES",TNT (720p)
 https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/0e473a16b3c3f19e3dfc0fe5a6168cb5/TNT.m3u8
-#EXTINF:-1 tvg-id="TNTSéries.br@SD",TNT Séries (720p)
+#EXTINF:-1 tvg-id="TNTSéries.br@SD" group-title="FILMES E SÉRIES",TNT Séries (720p)
 https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/84854c971e8834c7b76f393449de2318/TNTSéries.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.br@SD",Cartoon Network (720p)
-https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/5ea02d3d86e84200ee0d68f72da3913e/cartoonnetwork.txt.m3u8
-#EXTINF:-1 tvg-id="",Mais MasterChef Brasil
-https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8
-#EXTINF:-1 tvg-id="MasterChef.us@Brazil",MasterChef
-https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
-#EXTINF:-1 tvg-id="",MasterChef Brasil Profissionais
-https://jmp2.uk/plu-681110afc188aa63faa147e0.m3u8
-#EXTINF:-1 tvg-id="",Estado Paranormal
-https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8
-#EXTINF:-1 tvg-id="CSIMiami.us@BR",CSI: Miami
-https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
-#EXTINF:-1 tvg-id="MTVCatfish.us@BR",MTV Catfish (720p)
-https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
-#EXTINF:-1 tvg-id="FilmesSuspense.us@BR",Filmes Suspense
+#EXTINF:-1 tvg-id="FilmesSuspense.us@BR" group-title="FILMES E SÉRIES",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
-#EXTINF:-1 tvg-id="",Caçadores de Óvnis
-https://jmp2.uk/plu-656e2a10954b020008ed167c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineClassicos.us@BR",Pluto TV Cine Clássicos
+#EXTINF:-1 tvg-id="PlutoTVCineClassicos.us@BR" group-title="FILMES E SÉRIES",Pluto TV Cine Clássicos
 https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineComedia.us@BR",Pluto TV Cine Comédia
+#EXTINF:-1 tvg-id="PlutoTVCineComedia.us@BR" group-title="FILMES E SÉRIES",Pluto TV Cine Comédia
 https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineComediaRomantica.us@BR",Pluto TV Cine Comédia Romântica
+#EXTINF:-1 tvg-id="PlutoTVCineComediaRomantica.us@BR" group-title="FILMES E SÉRIES",Pluto TV Cine Comédia Romântica
 https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineCrime.us@BR",Pluto TV Cine Crime
+#EXTINF:-1 tvg-id="PlutoTVCineCrime.us@BR" group-title="FILMES E SÉRIES",Pluto TV Cine Crime
 https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineDrama.us@BR",Pluto TV Cine Drama
+#EXTINF:-1 tvg-id="PlutoTVCineDrama.us@BR" group-title="FILMES E SÉRIES",Pluto TV Cine Drama
 https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineFamilia.us@BR",Pluto TV Cine Família
+#EXTINF:-1 tvg-id="PlutoTVCineFamilia.us@BR" group-title="FILMES E SÉRIES",Pluto TV Cine Família
 https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineInspiracao.us@BR",Pluto TV Cine Inspiração
+#EXTINF:-1 tvg-id="PlutoTVCineInspiracao.us@BR" group-title="FILMES E SÉRIES",Pluto TV Cine Inspiração
 https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineTerror.us@BR",Pluto TV Cine Terror
+#EXTINF:-1 tvg-id="PlutoTVCineTerror.us@BR" group-title="FILMES E SÉRIES",Pluto TV Cine Terror
 https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineRomance.us@BR",Pluto TV Cine Romance
+#EXTINF:-1 tvg-id="PlutoTVCineRomance.us@BR" group-title="FILMES E SÉRIES",Pluto TV Cine Romance
 https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineSucessos.us@BR",Pluto TV Cine Sucessos
+#EXTINF:-1 tvg-id="PlutoTVCineSucessos.us@BR" group-title="FILMES E SÉRIES",Pluto TV Cine Sucessos
 https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFiccaoCientifica.us@BR",Pluto TV Ficção Científica
+#EXTINF:-1 tvg-id="PlutoTVFiccaoCientifica.us@BR" group-title="FILMES E SÉRIES",Pluto TV Ficção Científica
 https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFilmesAção.us@BR",Pluto TV Filmes Ação
+#EXTINF:-1 tvg-id="PlutoTVFilmesAção.us@BR" group-title="FILMES E SÉRIES",Pluto TV Filmes Ação
 https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFilmesAventura.us@BR",Pluto TV Filmes Aventura
+#EXTINF:-1 tvg-id="PlutoTVFilmesAventura.us@BR" group-title="FILMES E SÉRIES",Pluto TV Filmes Aventura
 https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFilmesdeLuta.us@BR",Pluto TV Filmes de Luta
+#EXTINF:-1 tvg-id="PlutoTVFilmesdeLuta.us@BR" group-title="FILMES E SÉRIES",Pluto TV Filmes de Luta
 https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFilmesNacionais.us@BR",Pluto TV Filmes Nacionais
+#EXTINF:-1 tvg-id="PlutoTVFilmesNacionais.us@BR" group-title="FILMES E SÉRIES",Pluto TV Filmes Nacionais
 https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
-#EXTINF:-1 tvg-id="PlutoTVRetro.us@BR",Pluto TV Retrô
-https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesAcao.us@BR",Pluto TV Séries Ação
+#EXTINF:-1 tvg-id="PlutoTVSeriesAcao.us@BR" group-title="FILMES E SÉRIES",Pluto TV Séries Ação
 https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us@BR",Pluto TV Séries Comédia
+#EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us@BR" group-title="FILMES E SÉRIES",Pluto TV Séries Comédia
 https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesCriminais.us@BR",Pluto TV Séries Criminais
+#EXTINF:-1 tvg-id="PlutoTVSeriesCriminais.us@BR" group-title="FILMES E SÉRIES",Pluto TV Séries Criminais
 https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesDrama.us@BR",Pluto TV Séries Drama
+#EXTINF:-1 tvg-id="PlutoTVSeriesDrama.us@BR" group-title="FILMES E SÉRIES",Pluto TV Séries Drama
 https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesNovelescas.us@BR",Pluto TV Séries Novelescas
+#EXTINF:-1 tvg-id="PlutoTVSeriesNovelescas.us@BR" group-title="FILMES E SÉRIES",Pluto TV Séries Novelescas
 https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesSciFi.us@BR",Pluto TV Séries Sci-Fi
+#EXTINF:-1 tvg-id="PlutoTVSeriesSciFi.us@BR" group-title="FILMES E SÉRIES",Pluto TV Séries Sci-Fi
 https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTerrorTrash.us@BR",Pluto TV Terror Trash
+#EXTINF:-1 tvg-id="PlutoTVTerrorTrash.us@BR" group-title="FILMES E SÉRIES",Pluto TV Terror Trash
 https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
-#EXTINF:-1 tvg-id="SonyChannel.br@SD",Sony Channel (720p)
-http://170.83.16.50/SONY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.br@SD",Sony Movies (720p)
+#EXTINF:-1 tvg-id="SonyMovies.br@SD" group-title="FILMES E SÉRIES",Sony Movies (720p)
 http://45.162.64.114/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.br@SD",Sony Movies (720p)
+#EXTINF:-1 tvg-id="SonyMovies.br@SD" group-title="FILMES E SÉRIES",Sony Movies (720p)
 http://45.177.114.115/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.br@SD",Sony Movies (720p)
+#EXTINF:-1 tvg-id="SonyMovies.br@SD" group-title="FILMES E SÉRIES",Sony Movies (720p)
 http://168.197.104.22/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.br@SD",Sony Movies (720p)
+#EXTINF:-1 tvg-id="SonyMovies.br@SD" group-title="FILMES E SÉRIES",Sony Movies (720p)
 http://170.83.16.50/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SonyOneCinema.br@SD",Sony One Cinema (720p)
+#EXTINF:-1 tvg-id="SonyOneCinema.br@SD" group-title="FILMES E SÉRIES",Sony One Cinema (720p)
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/2000.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.br@SD",MyTime Movie Network Brazil (720p)
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.br@SD" group-title="FILMES E SÉRIES",MyTime Movie Network Brazil (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceBrazuca.fr@HD",Trace Brasil (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-id="VEJAPlusTV.br@HD",VEJA+ TV (1080p)
-https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8
-#EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entertainment",A&E Latin America Brazil (720p)
-http://45.190.28.50/AE_HD/index.m3u8
-#EXTINF:0,RunTime | Brasil
+#EXTINF:0 group-title="FILMES E SÉRIES",RunTime | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:0,RunTime Ação | Brasil
+#EXTINF:0 group-title="FILMES E SÉRIES",RunTime Ação | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:0,RunTime Ação | Brasil ~ link 2
+#EXTINF:0 group-title="FILMES E SÉRIES",RunTime Ação | Brasil ~ link 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
-#EXTINF:0,RunTime CinEspanto | Suspense e Terror | Brasil
+#EXTINF:0 group-title="FILMES E SÉRIES",RunTime CinEspanto | Suspense e Terror | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:0,RunTime Comédia | Brasil
+#EXTINF:0 group-title="FILMES E SÉRIES",RunTime Comédia | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:0,RunTime Crime | Brasil
+#EXTINF:0 group-title="FILMES E SÉRIES",RunTime Crime | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:0,RunTime Romance | Brasil
+#EXTINF:0 group-title="FILMES E SÉRIES",RunTime Romance | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entertainment",A&E Latin America Brazil (720p)
-http://45.190.28.50/AE_HD/index.m3u8
-#EXTINF:-1 tvg-id="ADBTV.pt@SD" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" group-title="Religious",ADB TV (1080p)
-https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="AdessoTV.br@SD" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="General",Adesso TV (720p)
-https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@Brazil" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="Movies",Adrenalina Pura TV
-https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
-#EXTINF:-1 tvg-name="A&E 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E 4K
-http://tjtor8411.com:80/010794/FXz1sY/90647.ts
-#EXTINF:-1 tvg-name="A&E FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD
-http://tjtor8411.com:80/010794/FXz1sY/71760.ts
-#EXTINF:-1 tvg-name="A&E FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71761.ts
-#EXTINF:-1 tvg-name="A&E HD" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E HD
-http://tjtor8411.com:80/010794/FXz1sY/71762.ts
-#EXTINF:-1 tvg-name="A&E SD" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E SD
-http://tjtor8411.com:80/010794/FXz1sY/71763.ts
-#EXTINF:-1 tvg-name="AMC 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC 4K
-http://tjtor8411.com:80/010794/FXz1sY/90646.ts
-#EXTINF:-1 tvg-name="AMC FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD
-http://tjtor8411.com:80/010794/FXz1sY/71768.ts
-#EXTINF:-1 tvg-name="AMC FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71769.ts
-#EXTINF:-1 timeshift="7" tvg-name="AMC HD" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC HD
-http://tjtor8411.com:80/010794/FXz1sY/71770.ts
-#EXTINF:-1 tvg-name="AMC SD" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC SD
-http://tjtor8411.com:80/010794/FXz1sY/71771.ts
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet
-https://77e234bed854e2db79e8e97865a83877.s25-cloudfront-net.lat/stream/d112e8700fb7d5f516f37a3c8ec3f29b/error.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel 
-https://77e234bed854e2db79e8e97865a83877.s25-cloudfront-net.lat/stream/e4be4d374d64165e183aa2fef78d9d03/error.m3u8
-#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery Science
-https://77e234bed854e2db79e8e97865a83877.s25-cloudfront-net.lat/stream/2a920c526876d7d1c8308c09080c5df4/error.m3u8
-#EXTINF:-1 tvg-name="Discovery Kids 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids 4K
+
+# --- INFANTIL ---
+#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" group-title="INFANTIL",TV Ra Tim Bum (720p)
+http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8
+#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" group-title="INFANTIL",TV Ra Tim Bum (720p)
+http://45.190.28.50/RATIMBUM/index.m3u8
+#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" group-title="INFANTIL",TV Ra Tim Bum (720p)
+http://168.197.104.22/RA_TIM_BUM/index.m3u8
+#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" group-title="INFANTIL",TV Ra Tim Bum (720p)
+http://170.83.49.66:8083/TVRATIMBUMHD/index.m3u8
+#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" group-title="INFANTIL",TV Ra Tim Bum (720p)
+http://186.219.52.187/ratimbum/index.m3u8
+#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" group-title="INFANTIL",TV Ra Tim Bum (576p)
+http://45.162.64.114/RA_TIM_BUM/index.m3u8
+#EXTINF:-1 tvg-id="BoxKidsTV.br@SD" group-title="INFANTIL",Box Kids TV (720p)
+http://45.190.28.50/BOX_KIDS_HD/index.m3u8
+#EXTINF:-1 tvg-id="GospelCartoon.br@SD" group-title="INFANTIL",Gospel Cartoon (360p)
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosKids.pt@SD" group-title="INFANTIL",Kuriakos Kids (1080p)
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NickOnline.br@HD" group-title="INFANTIL",NickOnline HD (720p)
+https://x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NickToonsBrasil.br@SD" group-title="INFANTIL",NickToons Brasil (480p)
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.br@SD" group-title="INFANTIL",Cartoon Network (720p)
+https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/5ea02d3d86e84200ee0d68f72da3913e/cartoonnetwork.txt.m3u8
+#EXTINF:-1 tvg-name="Discovery Kids 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="INFANTIL",Discovery Kids 4K
 http://tjtor8411.com:80/010794/FXz1sY/90250.ts
-#EXTINF:-1 tvg-name="Discovery Kids FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD
+#EXTINF:-1 tvg-name="Discovery Kids FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="INFANTIL",Discovery Kids FHD
 http://tjtor8411.com:80/010794/FXz1sY/71871.ts
-#EXTINF:-1 tvg-name="Discovery Kids FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD [H265]
+#EXTINF:-1 tvg-name="Discovery Kids FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="INFANTIL",Discovery Kids FHD [H265]
 http://tjtor8411.com:80/010794/FXz1sY/71872.ts
-#EXTINF:-1 timeshift="7" tvg-name="Discovery Kids HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids HD
+#EXTINF:-1 timeshift="7" tvg-name="Discovery Kids HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="INFANTIL",Discovery Kids HD
 http://tjtor8411.com:80/010794/FXz1sY/71873.ts
-#EXTINF:-1 tvg-name="Discovery Kids SD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids SD
+#EXTINF:-1 tvg-name="Discovery Kids SD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="INFANTIL",Discovery Kids SD
 http://tjtor8411.com:80/010794/FXz1sY/71874.ts
-#EXTINF:-1 tvg-name="Discovery Science 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science 4K
+
+# --- DOCUMENTÁRIOS ---
+#EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="DOCUMENTÁRIOS",Terra Viva (720p)
+http://45.162.64.114/TERRAVIVA/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="DOCUMENTÁRIOS",Terra Viva (720p)
+http://45.177.114.115/TERRAVIVA/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="DOCUMENTÁRIOS",Terra Viva (720p)
+http://45.190.28.50/TERRA_VIVA_HD/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="DOCUMENTÁRIOS",Terra Viva (720p)
+http://138.255.2.6:8084/TERRAVIVA/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="DOCUMENTÁRIOS",Terra Viva (720p)
+http://168.197.104.22/TERRAVIVA/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="DOCUMENTÁRIOS",Terra Viva (720p)
+http://170.83.16.50/TERRA_VIVA/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="DOCUMENTÁRIOS",Terra Viva (720p)
+http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="DOCUMENTÁRIOS",AgroMais (720p)
+http://45.162.64.114/AGROMAIS/index.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="DOCUMENTÁRIOS",AgroMais (720p)
+http://45.177.114.115/agromais/index.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="DOCUMENTÁRIOS",AgroMais (720p)
+http://45.177.114.115/AGROMAIS_HD/index.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="DOCUMENTÁRIOS",AgroMais (720p)
+http://45.190.28.50/AGROMAIS_HD/index.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="DOCUMENTÁRIOS",AgroMais (720p)
+http://138.255.2.6:8084/AGROMAIS/index.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="DOCUMENTÁRIOS",AgroMais (720p)
+http://168.197.104.22/AGROMAIS/index.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="DOCUMENTÁRIOS",AgroMais (720p)
+http://170.83.16.50/AGRO_MAIS/index.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" group-title="DOCUMENTÁRIOS",Canal do Boi (720p)
+http://45.162.64.114/CANAL_DO_BOI/index.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" group-title="DOCUMENTÁRIOS",Canal do Boi (720p)
+http://45.190.28.50/CANAL_DO_BOI/index.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" group-title="DOCUMENTÁRIOS",Canal do Boi (720p)
+http://168.197.104.22/CANAL_DO_BOI/index.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" group-title="DOCUMENTÁRIOS",Canal do Boi (720p)
+http://170.83.16.50/CANAL_DO_BOI/index.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" group-title="DOCUMENTÁRIOS",Canal do Boi (720p)
+http://170.83.49.66:8083/CANALDOBOIHD/index.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" group-title="DOCUMENTÁRIOS",Canal do Boi (720p)
+http://186.219.52.187/canal_do_boi/index.m3u8
+#EXTINF:-1 tvg-id="CanalRural.br@SD" group-title="DOCUMENTÁRIOS",Canal Rural (1080p)
+https://cdn2.easy.tv.br/canalrural/index.m3u8
+#EXTINF:-1 tvg-id="CanalRural.br@SD" group-title="DOCUMENTÁRIOS",Canal Rural (720p)
+http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+#EXTINF:-1 tvg-id="CanalRural.br@SD" group-title="DOCUMENTÁRIOS",Canal Rural (720p)
+http://186.219.52.187/canal_rural/index.m3u8
+#EXTINF:-1 tvg-id="FishTV.br@SD" group-title="DOCUMENTÁRIOS",Fish TV (720p)
+http://45.162.64.114/FISH_TV/index.m3u8
+#EXTINF:-1 tvg-id="FishTV.br@SD" group-title="DOCUMENTÁRIOS",Fish TV (720p)
+http://45.190.28.50/FISH_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="FishTV.br@SD" group-title="DOCUMENTÁRIOS",Fish TV (720p)
+http://168.197.104.22/FISH_TV/index.m3u8
+#EXTINF:-1 tvg-id="FishTV.br@SD" group-title="DOCUMENTÁRIOS",Fish TV (720p)
+http://170.83.16.50/FISH_TV/index.m3u8
+#EXTINF:-1 tvg-id="History.br@SD" group-title="DOCUMENTÁRIOS",History (720p)
+http://45.177.114.114/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="History.br@SD" group-title="DOCUMENTÁRIOS",History (720p)
+http://45.190.28.50/HISTORY_HD/index.m3u8
+#EXTINF:-1 tvg-id="History.br@SD" group-title="DOCUMENTÁRIOS",History (720p)
+http://170.83.16.50/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="IMPDTVWorldwide.br@SD" group-title="DOCUMENTÁRIOS",IMPD TV Worldwide (1080p)
+https://igrejamundial.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="DOCUMENTÁRIOS",Animal Planet
+https://77e234bed854e2db79e8e97865a83877.s25-cloudfront-net.lat/stream/d112e8700fb7d5f516f37a3c8ec3f29b/error.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="DOCUMENTÁRIOS",Discovery Channel
+https://77e234bed854e2db79e8e97865a83877.s25-cloudfront-net.lat/stream/e4be4d374d64165e183aa2fef78d9d03/error.m3u8
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="DOCUMENTÁRIOS",Discovery Science
+https://77e234bed854e2db79e8e97865a83877.s25-cloudfront-net.lat/stream/2a920c526876d7d1c8308c09080c5df4/error.m3u8
+#EXTINF:-1 tvg-name="Discovery Science 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="DOCUMENTÁRIOS",Discovery Science 4K
 http://tjtor8411.com:80/010794/FXz1sY/103511.ts
-#EXTINF:-1 tvg-name="Discovery Science FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD
+#EXTINF:-1 tvg-name="Discovery Science FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="DOCUMENTÁRIOS",Discovery Science FHD
 http://tjtor8411.com:80/010794/FXz1sY/71875.ts
-#EXTINF:-1 tvg-name="Discovery Science FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD [H265]
+#EXTINF:-1 tvg-name="Discovery Science FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="DOCUMENTÁRIOS",Discovery Science FHD [H265]
 http://tjtor8411.com:80/010794/FXz1sY/71876.ts
-#EXTINF:-1 timeshift="7" tvg-name="Discovery Science HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
+#EXTINF:-1 timeshift="7" tvg-name="Discovery Science HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="DOCUMENTÁRIOS",Discovery Science HD
 http://tjtor8411.com:80/010794/FXz1sY/71877.ts
-#EXTINF:-1 tvg-name="Discovery Science SD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science SD
+#EXTINF:-1 tvg-name="Discovery Science SD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="DOCUMENTÁRIOS",Discovery Science SD
 http://tjtor8411.com:80/010794/FXz1sY/71878.ts
-#EXTINF:-1 tvg-name="Discovery Theater 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater 4K
+#EXTINF:-1 tvg-name="Discovery Theater 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="DOCUMENTÁRIOS",Discovery Theater 4K
 http://tjtor8411.com:80/010794/FXz1sY/103510.ts
-#EXTINF:-1 tvg-name="Discovery Theater FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater FHD
+#EXTINF:-1 tvg-name="Discovery Theater FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="DOCUMENTÁRIOS",Discovery Theater FHD
 http://tjtor8411.com:80/010794/FXz1sY/71879.ts
-#EXTINF:-1 tvg-name="Discovery Theater FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater FHD [H265]
+#EXTINF:-1 tvg-name="Discovery Theater FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="DOCUMENTÁRIOS",Discovery Theater FHD [H265]
 http://tjtor8411.com:80/010794/FXz1sY/71880.ts
-#EXTINF:-1 timeshift="7" tvg-name="Discovery Theater HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater HD
+#EXTINF:-1 timeshift="7" tvg-name="Discovery Theater HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="DOCUMENTÁRIOS",Discovery Theater HD
 http://tjtor8411.com:80/010794/FXz1sY/71881.ts
-#EXTINF:-1 tvg-name="Discovery Theater SD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater SD
+#EXTINF:-1 tvg-name="Discovery Theater SD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="DOCUMENTÁRIOS",Discovery Theater SD
 http://tjtor8411.com:80/010794/FXz1sY/71882.ts
-#EXTINF:-1 tvg-name="Discovery Turbo 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo 4K
+#EXTINF:-1 tvg-name="Discovery Turbo 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryturbo.png" group-title="DOCUMENTÁRIOS",Discovery Turbo 4K
 http://tjtor8411.com:80/010794/FXz1sY/90641.ts
-#EXTINF:-1 tvg-name="Discovery Turbo FHD" tvg-logo="http://tjtor8411.com/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo FHD
+#EXTINF:-1 tvg-name="Discovery Turbo FHD" tvg-logo="http://tjtor8411.com/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="DOCUMENTÁRIOS",Discovery Turbo FHD
 http://tjtor8411.com:80/010794/FXz1sY/71883.ts
-#EXTINF:-1 tvg-name="Discovery Turbo FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo FHD [H265]
+#EXTINF:-1 tvg-name="Discovery Turbo FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryturbo.png" group-title="DOCUMENTÁRIOS",Discovery Turbo FHD [H265]
 http://tjtor8411.com:80/010794/FXz1sY/71884.ts
-#EXTINF:-1 tvg-name="Discovery Turbo HD" tvg-logo="http://tjtor8411.com/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo HD
+#EXTINF:-1 tvg-name="Discovery Turbo HD" tvg-logo="http://tjtor8411.com/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="DOCUMENTÁRIOS",Discovery Turbo HD
 http://tjtor8411.com:80/010794/FXz1sY/71885.ts
-#EXTINF:-1 tvg-name="Discovery Turbo SD" tvg-logo="http://tjtor8411.com/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo SD
+#EXTINF:-1 tvg-name="Discovery Turbo SD" tvg-logo="http://tjtor8411.com/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="DOCUMENTÁRIOS",Discovery Turbo SD
 http://tjtor8411.com:80/010794/FXz1sY/71886.ts
-#EXTINF:-1 tvg-name="Discovery World 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World 4K
+#EXTINF:-1 tvg-name="Discovery World 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryworld.png" group-title="DOCUMENTÁRIOS",Discovery World 4K
 http://tjtor8411.com:80/010794/FXz1sY/103509.ts
-#EXTINF:-1 tvg-name="Discovery World FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World FHD
+#EXTINF:-1 tvg-name="Discovery World FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryworld.png" group-title="DOCUMENTÁRIOS",Discovery World FHD
 http://tjtor8411.com:80/010794/FXz1sY/71887.ts
-#EXTINF:-1 tvg-name="Discovery World FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World FHD [H265]
+#EXTINF:-1 tvg-name="Discovery World FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryworld.png" group-title="DOCUMENTÁRIOS",Discovery World FHD [H265]
 http://tjtor8411.com:80/010794/FXz1sY/71888.ts
-#EXTINF:-1 timeshift="7" tvg-name="Discovery World HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World HD
+#EXTINF:-1 timeshift="7" tvg-name="Discovery World HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryworld.png" group-title="DOCUMENTÁRIOS",Discovery World HD
 http://tjtor8411.com:80/010794/FXz1sY/71889.ts
-#EXTINF:-1 tvg-name="Discovery World SD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World SD
+#EXTINF:-1 tvg-name="Discovery World SD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryworld.png" group-title="DOCUMENTÁRIOS",Discovery World SD
 http://tjtor8411.com:80/010794/FXz1sY/71890.ts
 
+# --- RELIGIOSOS ---
+#EXTINF:-1 tvg-id="RedeGospel.br@SD" group-title="RELIGIOSOS",Rede Gospel (1080p)
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeGospel.br@SD" group-title="RELIGIOSOS",Rede Gospel (1080p)
+https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RedeGospel.br@SD" group-title="RELIGIOSOS",Rede Gospel (720p)
+http://45.177.114.115/REDE_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="RedeGospel.br@SD" group-title="RELIGIOSOS",Rede Gospel (720p)
+http://170.83.49.66:8083/REDEGOSPELHD/index.m3u8
+#EXTINF:-1 tvg-id="RITTV.br@SD" group-title="RELIGIOSOS",RIT TV (1080p)
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-id="RITTV.br@SD" group-title="RELIGIOSOS",RIT TV (720p)
+http://170.83.49.66:8083/RITHD/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" group-title="RELIGIOSOS",TV Cancao Nova (720p)
+http://45.162.64.114/CANCAO_NOVA/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" group-title="RELIGIOSOS",TV Cancao Nova (720p)
+http://45.190.28.50/CANCAO_NOVA_HD/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" group-title="RELIGIOSOS",TV Cancao Nova (720p)
+http://138.255.2.6:8084/CANCAONOVA/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" group-title="RELIGIOSOS",TV Cancao Nova (720p)
+http://168.197.104.22/CANCAO_NOVA/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" group-title="RELIGIOSOS",TV Cancao Nova (720p)
+http://170.83.16.50/CANCAO_NOVA/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" group-title="RELIGIOSOS",TV Cancao Nova (720p)
+http://186.219.52.187/cancao_nova/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" group-title="RELIGIOSOS",TV Cancao Nova (720p)
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPaiEterno.br@SD" group-title="RELIGIOSOS",TV Pai Eterno (720p)
+http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
+#EXTINF:-1 tvg-id="TVPaiEterno.br@SD" group-title="RELIGIOSOS",TV Pai Eterno (720p)
+http://45.190.28.50/PAI_ETERNO/index.m3u8
+#EXTINF:-1 tvg-id="TVPaiEterno.br@SD" group-title="RELIGIOSOS",TV Pai Eterno (720p)
+http://168.197.104.22/TV_PAI_ETERNO/index.m3u8
+#EXTINF:-1 tvg-id="TVPaiEterno.br@SD" group-title="RELIGIOSOS",TV Pai Eterno (720p)
+http://186.219.52.187/pai_eterno/index.m3u8
+#EXTINF:-1 tvg-id="TVPaiEterno.br@SD" group-title="RELIGIOSOS",TV Pai Eterno (720p)
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUniversal.br@SD" group-title="RELIGIOSOS",TV Universal (480p)
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br@SD" group-title="RELIGIOSOS",Rede Vida (720p)
+http://45.190.28.50/REDE_VIDA_HD/index.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br@SD" group-title="RELIGIOSOS",Rede Vida (720p)
+http://138.255.2.6:8084/REDEVIDA/index.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br@SD" group-title="RELIGIOSOS",Rede Vida (720p)
+http://168.197.104.22/REDE_VIDA/index.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br@SD" group-title="RELIGIOSOS",Rede Vida (720p)
+http://170.84.165.204/REDEVIDA_HD/index.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br@SD" group-title="RELIGIOSOS",Rede Vida (720p)
+http://186.219.52.187/rede_vida/index.m3u8
+#EXTINF:-1 tvg-id="BoasNovas.br@SD" group-title="RELIGIOSOS",Boas Novas (1080p)
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 tvg-id="FonteTV.br@SD" group-title="RELIGIOSOS",Fonte TV (1080p) [Not 24/7]
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:-1 tvg-id="FonteTV.br@SD" group-title="RELIGIOSOS",Fonte TV
+https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
+#EXTINF:-1 tvg-id="GospelMovieTV.br@SD" group-title="RELIGIOSOS",Gospel Movie TV (360p)
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-id="NovoTempo.br@SD" group-title="RELIGIOSOS",Novo Tempo (720p)
+http://45.162.64.114/NOVO_TEMPO/index.m3u8
+#EXTINF:-1 tvg-id="NovoTempo.br@SD" group-title="RELIGIOSOS",Novo Tempo (720p)
+http://45.190.28.50/TV_NOVO_TEMPO/index.m3u8
+#EXTINF:-1 tvg-id="NovoTempo.br@SD" group-title="RELIGIOSOS",Novo Tempo (720p)
+http://168.197.104.22/NOVO_TEMPO/index.m3u8
+#EXTINF:-1 tvg-id="NovoTempo.br@SD" group-title="RELIGIOSOS",Novo Tempo (720p)
+http://186.219.52.187/novo_tempo/index.m3u8
+
+# --- VARIEDADES ---
+#EXTINF:-1 tvg-id="RedeMeioNorte.br@SD" group-title="VARIEDADES",Rede Meio Norte (720p)
+https://maystreaming.cloudecast.com/redemeio/index.m3u8
+#EXTINF:-1 tvg-id="SESCTV.br@SD" group-title="VARIEDADES",SESC TV (720p)
+http://45.162.64.114/SESC_TV/index.m3u8
+#EXTINF:-1 tvg-id="SESCTV.br@SD" group-title="VARIEDADES",SESC TV (720p)
+http://170.83.49.66:8083/SESCTVHD/index.m3u8
+#EXTINF:-1 tvg-id="SESCTV.br@SD" group-title="VARIEDADES",SESC TV (720p)
+http://186.219.52.187/sesc_tv/index.m3u8
+#EXTINF:-1 tvg-id="SOUTV.br@SD" group-title="VARIEDADES",SOU TV
+https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
+#EXTINF:-1 tvg-id="STZTV.br@SD" group-title="VARIEDADES",STZ TV (1080p)
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="TCM10HD.br@SD" group-title="VARIEDADES",TCM 10 HD (1080p)
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-id="TikTokRadioBrasil.br@HD" group-title="VARIEDADES",TikTok Radio Brasil (1080p)
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
+#EXTINF:-1 tvg-id="TimesBrasil.br@SD" group-title="VARIEDADES",Times Brasil (720p)
+http://45.190.28.50/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br@SD" group-title="VARIEDADES",Travel Box Brazil (720p)
+http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br@SD" group-title="VARIEDADES",Travel Box Brazil (720p)
+http://138.255.2.6:8084/TRAVELBOXBRASIL/index.m3u8
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br@SD" group-title="VARIEDADES",Travel Box Brazil (720p)
+http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br@SD" group-title="VARIEDADES",Travel Box Brazil (720p)
+http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
+#EXTINF:-1 tvg-id="TV3Curitiba.br@SD" group-title="VARIEDADES",TV 3 Curitiba
+https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
+#EXTINF:-1 tvg-id="TVACritica.br@SD" group-title="VARIEDADES",TV A Critica
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAFolha.br@SD" group-title="VARIEDADES",TV A Folha (720p)
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAliancaCatarinense.br@SD" group-title="VARIEDADES",TV Aliança Catarinense (720p)
+https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAlternativa.br@SD" group-title="VARIEDADES",TV Alternativa (410p)
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArapuan.br@SD" group-title="VARIEDADES",TV Arapuan (720p)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrusque.br@SD" group-title="VARIEDADES",TV Brusque (720p)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCuruca.br@SD" group-title="VARIEDADES",TV Curuça (360p)
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDifusao.br@SD" group-title="VARIEDADES",TV Difusao (720p)
+https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVFronteira.br@SD" group-title="VARIEDADES",TV Fronteira (480i)
+https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
+#EXTINF:-1 tvg-id="TVGRANDENATALHDTVBRASIL.br@SD" group-title="VARIEDADES",TV Grande Natal (1080p)
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-id="TVGuara.br@SD" group-title="VARIEDADES",TV Guará (720p) [Not 24/7]
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLifeAmerica.br@HD" group-title="VARIEDADES",TV Life America (720p)
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+#EXTINF:-1 tvg-id="TVLitoralRN.br@SD" group-title="VARIEDADES",TV Litoral RN (720p)
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMaisMarica.br@SD" group-title="VARIEDADES",TV Mais Maricá (1080p)
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMarajoara.br@SD" group-title="VARIEDADES",TV Marajoara (720p)
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMetropole.br@SD" group-title="VARIEDADES",TV Metropole (720p) [Not 24/7]
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNatal.br@SD" group-title="VARIEDADES",TV Natal (1080p)
+http://185.228.163.146:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="TVPadreCicero.br@SD" group-title="VARIEDADES",TV Padre Cicero (720p)
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+#EXTINF:-1 tvg-id="TVParaense.br@HD" group-title="VARIEDADES",TV Paraense (720p)
+https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
+#EXTINF:-1 tvg-id="TVParanaTurismo.br@SD" group-title="VARIEDADES",TV Paraná Turismo (720p) [Not 24/7]
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-id="TVPetropolis.br@SD" group-title="VARIEDADES",TV Petropolis (720p)
+https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
+#EXTINF:-1 tvg-id="TVProfissao.br@SD" group-title="VARIEDADES",TV Profissao
+https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSaoRaimundo.br@SD" group-title="VARIEDADES",TV São Raimundo (268p)
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-id="TVShowFortaleza.br@SD" group-title="VARIEDADES",TV Show Fortaleza (720p)
+https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSimCachoeiro.br@SD" group-title="VARIEDADES",TV Sim Cachoeiro (720p)
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSimSaoMateus.br@SD" group-title="VARIEDADES",TV Sim São Mateus (720p)
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSulBahia.br@SD" group-title="VARIEDADES",TV Sul Bahia (320p)
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSuldeMinas.br@SD" group-title="VARIEDADES",TV Sul de Minas (720p)
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTerceiroAnjo.br@SD" group-title="VARIEDADES",TV Terceiro Anjo (360p)
+https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUFOP.br@HD" group-title="VARIEDADES",TV UFOP (1080p)
+https://app.tvufop.com.br/hls/tvufop.m3u8
+#EXTINF:-1 tvg-id="TVVilaReal.br@SD" group-title="VARIEDADES",TV Vila Real (720p)
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-id="TVZoom.br@SD" group-title="VARIEDADES",TV Zoom (720p)
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPlusPet.br@SD" group-title="VARIEDADES",TV+Pet
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCRio.br@SD" group-title="VARIEDADES",TVC-Rio
+https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+#EXTINF:-1 tvg-id="TVComunitaria.br@SD" group-title="VARIEDADES",TVCOM DF (360p)
+https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="TVCOMMaceio.br@SD" group-title="VARIEDADES",TVCOM Maceió (480p)
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+#EXTINF:-1 tvg-id="TVECultura.br@SD" group-title="VARIEDADES",TVE Cultura (720p)
+http://45.190.28.50/TVE/index.m3u8
+#EXTINF:-1 tvg-id="TVEBahia.br@SD" group-title="VARIEDADES",TVE RS (1080p)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="TVERS.br@SD" group-title="VARIEDADES",TVE RS (1080p)
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="TVitape.br@SD" group-title="VARIEDADES",TVitapé (720p)
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-id="TVLatinaSat.br@HD" group-title="VARIEDADES",TVLatinaSat (720p)
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="TVNBN.br@SD" group-title="VARIEDADES",TVNBN (720p)
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 tvg-id="UMATV.br@HD" group-title="VARIEDADES",UMA TV
+https://umatv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="UnisulTV.br@SD" group-title="VARIEDADES",UNISUL TV (720p)
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+#EXTINF:-1 tvg-id="VEJAPlusTV.br@HD" group-title="VARIEDADES",VEJA+ TV (1080p)
+https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
+#EXTINF:-1 tvg-id="WooHoo.br@SD" group-title="VARIEDADES",WooHoo (720p)
+http://45.162.64.114/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="WooHoo.br@SD" group-title="VARIEDADES",WooHoo (720p)
+http://168.197.104.22/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="WooHoo.br@SD" group-title="VARIEDADES",WooHoo (720p)
+http://170.83.16.50/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="WooHoo.br@SD" group-title="VARIEDADES",WooHoo (720p)
+http://186.219.52.187/woohoo/index.m3u8
+#EXTINF:-1 tvg-id="LamoreRockShowWebTV.br@SD" group-title="VARIEDADES",Lamore Rock Show WebTV (720p)
+https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTVParana.br@SD" group-title="VARIEDADES",RedeTV! Parana
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="AmazonSat.br@SD" group-title="VARIEDADES",Amazon Sat (1080p)
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="ArarunaTV.br@SD" group-title="VARIEDADES",Araruna TV
+https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-id="AratuOn.br@SD" group-title="VARIEDADES",Aratu On
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 tvg-id="Arte1.br@SD" group-title="VARIEDADES",Arte 1 (720p)
+http://45.162.64.114/ARTE1/index.m3u8
+#EXTINF:-1 tvg-id="Arte1.br@SD" group-title="VARIEDADES",Arte 1 (720p)
+http://45.177.114.115/ARTE1/index.m3u8
+#EXTINF:-1 tvg-id="Arte1.br@SD" group-title="VARIEDADES",Arte 1 (720p)
+http://45.190.28.50/ARTE_1/index.m3u8
+#EXTINF:-1 tvg-id="Arte1.br@SD" group-title="VARIEDADES",Arte 1 (720p)
+http://168.197.104.22/ARTE1/index.m3u8
+#EXTINF:-1 tvg-id="Arte1.br@SD" group-title="VARIEDADES",Arte 1 (720p)
+http://170.83.16.50/ARTE_1/index.m3u8
+#EXTINF:-1 tvg-id="AWTV.br@HD" group-title="VARIEDADES",AWTV (1080p) [Geo-blocked]
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AXN.br@SD" group-title="VARIEDADES",AXN (720p)
+http://45.190.28.50/AXN_HD/index.m3u8
+#EXTINF:-1 tvg-id="AXN.br@SD" group-title="VARIEDADES",AXN (720p)
+http://138.255.2.6:8084/AXN/index.m3u8
+#EXTINF:-1 tvg-id="AXN.br@SD" group-title="VARIEDADES",AXN (720p)
+http://170.83.16.50/AXN/index.m3u8
+#EXTINF:-1 tvg-id="AXN.br@SD" group-title="VARIEDADES",AXN (720p)
+http://170.83.49.66:8083/AXNHD/index.m3u8
+#EXTINF:-1 tvg-id="Blitstv.br@SD" group-title="VARIEDADES",Blitstv
+https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
+#EXTINF:-1 tvg-id="BR8TV.br@SD" group-title="VARIEDADES",BR8 TV
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CaboFrioTV.br@SD" group-title="VARIEDADES",Cabo Frio TV (720p)
+https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal25Jundiai.br@SD" group-title="VARIEDADES",Canal 25 Jundiaí (404p) [Not 24/7]
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="Canal38.br@SD" group-title="VARIEDADES",Canal 38 (720p)
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalFDR.br@SD" group-title="VARIEDADES",Canal FDR
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 tvg-id="CanalFutura.br@SD" group-title="VARIEDADES",Canal Futura (720p)
+http://45.162.64.114/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="CanalFutura.br@SD" group-title="VARIEDADES",Canal Futura (720p)
+http://170.83.16.50/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="CanalFutura.br@SD" group-title="VARIEDADES",Canal Futura (720p)
+http://186.219.52.187/futura/index.m3u8
+#EXTINF:-1 tvg-id="CanalSete.br@SD" group-title="VARIEDADES",Canal Sete
+http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalUOL.br@SD" group-title="VARIEDADES",Canal UOL (1080p)
+https://video24.mais.uol.com.br/live/6146.m3u8
+#EXTINF:-1 tvg-id="CatveMasterTV.br@SD" group-title="VARIEDADES",Catve Master TV (720p) [Not 24/7]
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ChefTV.br@SD" group-title="VARIEDADES",Chef TV (720p)
+http://45.190.28.50/CHEF_TV/index.m3u8
+#EXTINF:-1 tvg-id="ChefTV.br@SD" group-title="VARIEDADES",Chef TV (720p)
+http://168.197.104.22/CHEF_TV/index.m3u8
+#EXTINF:-1 tvg-id="CINDIETV.br@HD" group-title="VARIEDADES",CINDIE TV (1080p)
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1 tvg-id="CinturaoVerde.br@SD" group-title="VARIEDADES",Cinturao Verde
+https://play.redecinturaoverde.com.br/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTV.br@SD" group-title="VARIEDADES",Classique TV (360p)
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="COMBrasil.br@SD" group-title="VARIEDADES",COM Brasil (1080p) [Not 24/7]
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-id="COMBrasil.br@SD" group-title="VARIEDADES",COM Brasil (720p)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+#EXTINF:-1 tvg-id="ConectaMaisTV.br@SD" group-title="VARIEDADES",Conecta Mais TV (720p)
+https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
+#EXTINF:-1 tvg-id="CulturaFast.br@SD" group-title="VARIEDADES",Cultura Fast (720p)
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+#EXTINF:-1 tvg-id="CulturaPara.br@SD" group-title="VARIEDADES",Cultura Para (720p)
+http://170.84.165.204/CANAL_21_HD/index.m3u8
+#EXTINF:-1 tvg-id="CulturaPara.br@SD" group-title="VARIEDADES",Cultura Pará (480p) [Not 24/7]
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-id="DemaisTV.br@SD" group-title="VARIEDADES",Demais TV (720p)
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-id="DespertarTV.br@HD" group-title="VARIEDADES",Despertar TV (720p)
+https://br.conectmy.com.br/DespertarTV/index.m3u8
+#EXTINF:-1 tvg-id="DumDum.br@SD" group-title="VARIEDADES",DumDum (720p)
+http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
+#EXTINF:-1 tvg-id="DumDum.br@SD" group-title="VARIEDADES",DumDum (720p)
+http://138.255.2.6:8084/ZOOMOO/index.m3u8
+#EXTINF:-1 tvg-id="DumDum.br@SD" group-title="VARIEDADES",DumDum (720p)
+http://168.197.104.22/ZOOMOO/index.m3u8
+#EXTINF:-1 tvg-id="DumDum.br@SD" group-title="VARIEDADES",DumDum (720p)
+http://186.219.52.187/zoomoo/index.m3u8
+#EXTINF:-1 tvg-id="ElementalChannel.br@SD" group-title="VARIEDADES",Elemental Channel
+https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
+#EXTINF:-1 tvg-id="ElyTV.br@SD" group-title="VARIEDADES",ElyTV (360p)
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:-1 tvg-id="EUTV.br@SD" group-title="VARIEDADES",EUTV (720p)
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="EUTV.br@SD" group-title="VARIEDADES",EUTV
+https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTV.br@SD" group-title="VARIEDADES",FashionTV (720p)
+http://45.190.28.50/FASHION_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="ForaTedioTV.br@SD" group-title="VARIEDADES",Fora Tedio TV (720p)
+https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
+#EXTINF:-1 tvg-id="Lke.br@SD" group-title="VARIEDADES",L!ke (1080p)
+https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
+#EXTINF:-1 tvg-id="LaboralTV.br@SD" group-title="VARIEDADES",Laboral TV (360p)
+https://tv.laboralsst.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Loading.br@SD" group-title="VARIEDADES",Loading (720p)
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCBrasilTV.br@SD" group-title="VARIEDADES",MBC Brasil TV
+https://play.mbcbrasil.tv.br/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD" group-title="VARIEDADES",Music Box Brazil (720p)
+http://45.190.28.50/MUSIC_BOX_HD/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD" group-title="VARIEDADES",Music Box Brazil (720p)
+http://168.197.104.22/MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD" group-title="VARIEDADES",Music Box Brazil (720p)
+http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
+#EXTINF:-1 tvg-id="NovaEraTV.br@SD" group-title="VARIEDADES",Nova Era TV (1080p) [Not 24/7]
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1 tvg-id="NTV.br@SD" group-title="VARIEDADES",NTV (720p)
+https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ODiaTV.br@SD" group-title="VARIEDADES",O Dia TV
+https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+#EXTINF:-1 tvg-id="PetloversTV.br@SD" group-title="VARIEDADES",Petlovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayTV.br@SD" group-title="VARIEDADES",Play TV (720p)
+http://45.162.64.114/PLAY_TV/index.m3u8
+#EXTINF:-1 tvg-id="PlayTV.br@SD" group-title="VARIEDADES",Play TV (720p)
+http://45.177.114.115/PLAY_TV/index.m3u8
+#EXTINF:-1 tvg-id="PlayTV.br@SD" group-title="VARIEDADES",Play TV (720p)
+http://168.197.104.22/PLAY_TV/index.m3u8
+#EXTINF:-1 tvg-id="PlayTV.br@SD" group-title="VARIEDADES",Play TV (720p)
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1 tvg-id="PlenaTV.br@SD" group-title="VARIEDADES",Plena TV (720p)
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-id="PlenitudeTV.br@SD" group-title="VARIEDADES",Plenitude TV
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimerTV.br@SD" group-title="VARIEDADES",Primer TV (1080p)
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1 tvg-id="RBATV.br@SD" group-title="VARIEDADES",RBATV (720p)
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br@SD" group-title="VARIEDADES",Rede Brasil (1080p)
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",Mais MasterChef Brasil
+https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8
+#EXTINF:-1 tvg-id="MasterChef.us@Brazil" group-title="VARIEDADES",MasterChef
+https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",MasterChef Brasil Profissionais
+https://jmp2.uk/plu-681110afc188aa63faa147e0.m3u8
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",Estado Paranormal
+https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8
+#EXTINF:-1 tvg-id="CSIMiami.us@BR" group-title="VARIEDADES",CSI: Miami
+https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
+#EXTINF:-1 tvg-id="MTVCatfish.us@BR" group-title="VARIEDADES",MTV Catfish (720p)
+https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES",Caçadores de Óvnis
+https://jmp2.uk/plu-656e2a10954b020008ed167c.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRetro.us@BR" group-title="VARIEDADES",Pluto TV Retrô
+https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.br@SD" group-title="VARIEDADES",Sony Channel (720p)
+http://170.83.16.50/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="TraceBrazuca.fr@HD" group-title="VARIEDADES",Trace Brasil (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-id="VEJAPlusTV.br@HD" group-title="VARIEDADES",VEJA+ TV (1080p)
+https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8
+#EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="VARIEDADES",A&E Latin America Brazil (720p)
+http://45.190.28.50/AE_HD/index.m3u8
+#EXTINF:-1 tvg-id="ADBTV.pt@SD" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" group-title="VARIEDADES",ADB TV (1080p)
+https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AdessoTV.br@SD" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="VARIEDADES",Adesso TV (720p)
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@Brazil" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="VARIEDADES",Adrenalina Pura TV
+https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
+#EXTINF:-1 tvg-name="A&E 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="VARIEDADES",A&E 4K
+http://tjtor8411.com:80/010794/FXz1sY/90647.ts
+#EXTINF:-1 tvg-name="A&E FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="VARIEDADES",A&E FHD
+http://tjtor8411.com:80/010794/FXz1sY/71760.ts
+#EXTINF:-1 tvg-name="A&E FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="VARIEDADES",A&E FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71761.ts
+#EXTINF:-1 tvg-name="A&E HD" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="VARIEDADES",A&E HD
+http://tjtor8411.com:80/010794/FXz1sY/71762.ts
+#EXTINF:-1 tvg-name="A&E SD" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="VARIEDADES",A&E SD
+http://tjtor8411.com:80/010794/FXz1sY/71763.ts
+#EXTINF:-1 tvg-name="AMC 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="VARIEDADES",AMC 4K
+http://tjtor8411.com:80/010794/FXz1sY/90646.ts
+#EXTINF:-1 tvg-name="AMC FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="VARIEDADES",AMC FHD
+http://tjtor8411.com:80/010794/FXz1sY/71768.ts
+#EXTINF:-1 tvg-name="AMC FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="VARIEDADES",AMC FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71769.ts
+#EXTINF:-1 timeshift="7" tvg-name="AMC HD" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="VARIEDADES",AMC HD
+http://tjtor8411.com:80/010794/FXz1sY/71770.ts
+#EXTINF:-1 tvg-name="AMC SD" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="VARIEDADES",AMC SD
+http://tjtor8411.com:80/010794/FXz1sY/71771.ts
+
+# --- GOVERNO E EDUCAÇÃO ---
+#EXTINF:-1 tvg-id="CanalEducacao.br@SD" group-title="GOVERNO E EDUCAÇÃO",Canal Educacao (720p)
+http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br@SD" group-title="GOVERNO E EDUCAÇÃO",Canal Educacao (720p)
+http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br@SD" group-title="GOVERNO E EDUCAÇÃO",Canal Educacao (720p)
+http://168.197.104.22/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br@SD" group-title="GOVERNO E EDUCAÇÃO",Canal Gov (720p)
+http://168.197.104.22/TV_BRASIL_2/index.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br@SD" group-title="GOVERNO E EDUCAÇÃO",Canal Gov (720p)
+http://45.177.114.115/TV_BRASIL_2/index.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br@SD" group-title="GOVERNO E EDUCAÇÃO",Canal Gov (720p)
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalSaude.br@SD" group-title="GOVERNO E EDUCAÇÃO",Canal Saude
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 
 
 

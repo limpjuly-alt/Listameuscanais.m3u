@@ -190,9 +190,9 @@ http://186.219.52.187/jp_news/index.m3u8
 #EXTINF:-1 tvg-id="Espn.br@SD" group-title="ESPORTES",Espn (720p)
 https://np.s25-cloudfront-net.lat/stream/7ef63d8b500babe2f0b7f37e70302b9c/playlist.m3u8
 #EXTINF:-1 tvg-id="SportTV2.br@SD" group-title="ESPORTES",Sport TV 2 (720p)
-https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv2.m3u8
+https://np.s25-cloudfront-net.lat/stream/9fffe2268285a6b8d0a3d687255d594b/sportv2.m3u8
 #EXTINF:-1 tvg-id="PremiereClubes.br@SD" group-title="ESPORTES",Premiere Clubes (720p)
-https://40bbd8a95d080fec59c9dbaa31e4f533.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere2.m3u8
+https://np.s25-cloudfront-net.lat/stream/b6d4c21b35a55309beb7cad33bea2d77/premiere2.m3u8
 #EXTINF:-1 tvg-id="BandSports.br@SD" group-title="ESPORTES",Band Sports (720p)
 http://45.162.64.114/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br@SD" group-title="ESPORTES",Band Sports (720p)
@@ -228,7 +228,7 @@ https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/4f7b4fdfe
 #EXTINF:-1 tvg-id="TelecineTouch.br@SD" group-title="FILMES E SÉRIES",Telecine Touch (720p)
 https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/c77a1388ed4980c04d16b61c69cfe096/telecinetouch.m3u8
 #EXTINF:-1 tvg-id="TNT.br@SD" group-title="FILMES E SÉRIES",TNT (720p)
-https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/0e473a16b3c3f19e3dfc0fe5a6168cb5/TNT.m3u8
+https://np.s25-cloudfront-net.lat/stream/7a278ad7d3384b845ce6e35d1ff81793/TNT.m3u8
 #EXTINF:-1 tvg-id="TNTSéries.br@SD" group-title="FILMES E SÉRIES",TNT Séries (720p)
 https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/84854c971e8834c7b76f393449de2318/TNTSéries.m3u8
 #EXTINF:-1 tvg-id="FilmesSuspense.us@BR" group-title="FILMES E SÉRIES",Filmes Suspense

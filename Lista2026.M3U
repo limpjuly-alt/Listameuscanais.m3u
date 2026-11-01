@@ -188,7 +188,7 @@ http://186.219.52.187/jp_news/index.m3u8
 
 # --- ESPORTES ---
 #EXTINF:-1 tvg-id="Espn.br@SD" group-title="ESPORTES",Espn (720p)
-https://np.s25-cloudfront-net.lat/stream/7ef63d8b500babe2f0b7f37e70302b9c/playlist.m3u8
+https://np.s25-cloudfront-net.lat/stream/6d899cc4aca77de397a72bfbf7447c4a/playlist.m3u8
 #EXTINF:-1 tvg-id="SportTV2.br@SD" group-title="ESPORTES",Sport TV 2 (720p)
 https://np.s25-cloudfront-net.lat/stream/9fffe2268285a6b8d0a3d687255d594b/sportv2.m3u8
 #EXTINF:-1 tvg-id="PremiereClubes.br@SD" group-title="ESPORTES",Premiere Clubes (720p)
@@ -212,7 +212,7 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="KuriakosCine.pt@SD" group-title="FILMES E SÉRIES",Kuriakos Cine (1080p)
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Megapix.br@SD" group-title="FILMES E SÉRIES",Megapix (720p)
-https://np.s25-cloudfront-net.lat/stream/0cf70cb96d1768d98eb7c20250f719a4/megapix.m3u8
+https://np.s25-cloudfront-net.lat/stream/1a465b4b71cdf281b12ee165622f76d3/megapix.m3u8
 #EXTINF:-1 tvg-id="MegaCineTV.do@HD" group-title= "Movies",Mega Cine TV (1080p)
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-id="TelecinePipoca.br@SD" group-title="FILMES E SÉRIES",Telecine Pipoca (720p)

@@ -189,6 +189,8 @@ http://186.219.52.187/jp_news/index.m3u8
 # --- ESPORTES ---
 #EXTINF:-1 tvg-id="Espn.br@SD" group-title="ESPORTES",Espn (720p)
 https://np.s25-cloudfront-net.lat/stream/6d899cc4aca77de397a72bfbf7447c4a/playlist.m3u8
+#EXTINF:-1,tvg-id="Espn.br@SD" group-title="ESPORTES",Espn (720p) 
+https://nphd.online/tv/
 #EXTINF:-1 tvg-id="SportTV2.br@SD" group-title="ESPORTES",Sport TV 2 (720p)
 https://np.s25-cloudfront-net.lat/stream/9fffe2268285a6b8d0a3d687255d594b/sportv2.m3u8
 #EXTINF:-1 tvg-id="PremiereClubes.br@SD" group-title="ESPORTES",Premiere Clubes (720p)

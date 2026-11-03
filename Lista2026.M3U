@@ -188,7 +188,7 @@ http://186.219.52.187/jp_news/index.m3u8
 
 # --- ESPORTES ---
 #EXTINF:-1 tvg-id="Espn.br@SD" group-title="ESPORTES",Espn (720p)
-https:////llvpn.com/tag.min.m3u8
+https://llvpn.com/tag.min.js
 #EXTINF:-1,tvg-id="Espn.br@SD" group-title="ESPORTES",Espn 2 (720p) 
 https://np.s25-cloudfront-net.lat/stream/ecec8456a33910a6a93fc55b59e0e49c/playlist.m3u8
 #EXTINF:-1 tvg-id="SportTV2.br@SD" group-title="ESPORTES",Sport TV 2 (720p)

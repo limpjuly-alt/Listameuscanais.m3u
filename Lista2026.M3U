@@ -187,7 +187,7 @@ http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
 http://186.219.52.187/jp_news/index.m3u8
 
 # --- ESPORTES ---
-#EXTINF:-1 tvg-id="Espn.br@SD" group-title="ESPORTES",Espn (720p)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD**" tvg-logo="" group-title="CANAIS ALTERNATIVOS 2",ESPN HD**
 http://srvunion.com:8880/live/88522/2disp/19309.ts
 #EXTINF:-1,tvg-id="Espn.br@SD" group-title="ESPORTES",Espn 2 (720p) 
 https://np.s25-cloudfront-net.lat/stream/ecec8456a33910a6a93fc55b59e0e49c/playlist.m3u8

@@ -420,7 +420,7 @@ https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="DOCUMENTÁRIOS",Animal Planet
 https://77e234bed854e2db79e8e97865a83877.s25-cloudfront-net.lat/stream/d112e8700fb7d5f516f37a3c8ec3f29b/error.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="DOCUMENTÁRIOS",Discovery Channel
-https://77e234bed854e2db79e8e97865a83877.s25-cloudfront-net.lat/stream/e4be4d374d64165e183aa2fef78d9d03/error.m3u8
+https://np.s25-cloudfront-net.lat/temp/discovery_channel_hd.m3u8
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="DOCUMENTÁRIOS",Discovery Science
 https://77e234bed854e2db79e8e97865a83877.s25-cloudfront-net.lat/stream/2a920c526876d7d1c8308c09080c5df4/error.m3u8
 #EXTINF:-1 tvg-name="Discovery Science 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="DOCUMENTÁRIOS",Discovery Science 4K

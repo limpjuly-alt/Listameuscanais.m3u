@@ -232,9 +232,9 @@ https://np.s25-cloudfront-net.lat/temp/telecinepremium.m3u8
 #EXTINF:-1 tvg-id="TelecineTouch.br@SD" group-title="FILMES E SÉRIES",Telecine Touch (720p)
 https://np.s25-cloudfront-net.lat/temp/telecinetouch.m3u8
 #EXTINF:-1 tvg-id="TNT.br@SD" group-title="FILMES E SÉRIES",TNT (720p)
-https://np.s25-cloudfront-net.lat/stream/7a278ad7d3384b845ce6e35d1ff81793/TNT.m3u8
-#EXTINF:-1 tvg-id="TNTSéries.br@SD" group-title="FILMES E SÉRIES",TNT Séries (720p)
-https://np.s25-cloudfront-net.lat/stream/dd651df7e8775566229110a8087223b9/TNTSéries.m3u8
+https://np.s25-cloudfront-net.lat/temp/tntseries.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.br@SD" group-title="FILMES E SÉRIES",TNT Novelas (720p)
+https://np.s25-cloudfront-net.lat/temp/tntnovelas.m3u8
 #EXTINF:-1 tvg-id="FilmesSuspense.us@BR" group-title="FILMES E SÉRIES",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineClassicos.us@BR" group-title="FILMES E SÉRIES",Pluto TV Cine Clássicos

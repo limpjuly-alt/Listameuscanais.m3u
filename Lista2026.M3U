@@ -138,7 +138,7 @@ http://186.219.52.187/rede_tv/index.m3u8
 #EXTINF:-1 tvg-id="RedeTVMais.br@SD" group-title="TV ABERTA",Rede TV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="Band.br@SD" group-title="TV ABERTA",Band (720p)
-https://dai.google.com/linear/hls/pa/event/f0Tz47QTSQy_RsfSP_WcSA/stream/72515950-4b9b-43f5-a6fc-13bc91041499:SCL2/variant/db41dabc175aace8c60ccd8dd182f588/bandwidth/4728000.m3u8
+https://np.s25-cloudfront-net.lat/temp/band.m3u8
 #EXTINF:-1 tvg-id="ConecTVBrasil.br@SD" group-title="TV ABERTA",ConecTV Brasil (720p)
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 tvg-id="RCTVBrasil.br@SD" group-title="TV ABERTA",RCTV Brasil
@@ -215,6 +215,8 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Megapix.br@SD" group-title="FILMES E SÉRIES",Megapix (720p)
 https://np.s25-cloudfront-net.lat/temp/megapix.m3u8
+#EXTINF:-1 tvg-id="space.br@SD" group-title="SPACE",SPACE (720p)
+https://np.s25-cloudfront-net.lat/temp/space.m3u8
 #EXTINF:-1 tvg-id="MegaCineTV.do@HD" group-title= "Movies",Mega Cine TV (1080p)
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-id="TelecinePipoca.br@SD" group-title="FILMES E SÉRIES",Telecine Pipoca (720p)

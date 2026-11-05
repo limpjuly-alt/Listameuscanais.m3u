@@ -189,8 +189,6 @@ http://186.219.52.187/jp_news/index.m3u8
 # --- ESPORTES ---
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="ESPORTES",ESPN
 https://np.s25-cloudfront-net.lat/temp/espn.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="ESPORTES",ESPN
-https://np.s25-cloudfront-net.lat/temp/espn.m3u8
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN" group-title="ESPORTES",ESPN2
 https://np.s25-cloudfront-net.lat/temp/espn2.m3u8
 #EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN" group-title="ESPORTES",ESPN3

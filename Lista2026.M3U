@@ -195,11 +195,11 @@ https://np.s25-cloudfront-net.lat/temp/espn2.m3u8
 https://np.s25-cloudfront-net.lat/temp/espn3.m3u8
 #EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN" group-title="ESPORTES",ESPN4
 https://np.s25-cloudfront-net.lat/temp/espn4.m3u8
-#EXTINF:-1 tvg-id="SPORTTV" tvg-name="SPORTTV" group-title="ESPORTES",SPORT TV
+#EXTINF:-1 tvg-id="SPORTTV" tvg-name="SPORTTV" group-title="ESPORTES",SPORTTV
 https://np.s25-cloudfront-net.lat/temp/sportv.m3u8
-#EXTINF:-1 tvg-id="SPORTTV2" tvg-name="SPORTTV2" group-title="ESPORTES",SPORT TV 2
+#EXTINF:-1 tvg-id="SPORTTV2" tvg-name="SPORTTV2" group-title="ESPORTES",SPORTTV2
 https://np.s25-cloudfront-net.lat/temp/sportv2.m3u8
-#EXTINF:-1 tvg-id="SPORTTV3" tvg-name="SPORTTV3" group-title="ESPORTES",SPORT TV 3
+#EXTINF:-1 tvg-id="SPORTTV3" tvg-name="SPORTTV3" group-title="ESPORTES",SPORTTV3
 https://np.s25-cloudfront-net.lat/temp/sportv3.m3u8
 #EXTINF:-1 tvg-id="PremiereClubes.br@SD" group-title="ESPORTES",Premiere Clubes (720p)
 https://np.s25-cloudfront-net.lat/temp/premiere.m3u8

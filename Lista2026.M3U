@@ -1,6 +1,14 @@
 ﻿#EXTM3U
 # --- TV ABERTA ---
-#EXTINF:-1 tvg-id="TVBahia.br@HD" group-title="TV ABERTA",TV GLOBO  (1080i)
+#EXTINF:-1 tvg-id="GLOBOSP.br@HD" group-title="TV ABERTA",TV GLOBO SP  
+https://np.s25-cloudfront-net.lat/temp/globosp.m3u8
+#EXTINF:-1 tvg-id="GLOBORJ.br@HD" group-title="TV ABERTA",TV GLOBO RJ  
+https://np.s25-cloudfront-net.lat/temp/globorj.m3u8
+#EXTINF:-1 tvg-id="GLOBORS.br@HD" group-title="TV ABERTA",TV GLOBO RS  
+https://np.s25-cloudfront-net.lat/temp/globors.m3u8
+#EXTINF:-1 tvg-id="GLOBOMG.br@HD" group-title="TV ABERTA",TV GLOBO MG  
+https://np.s25-cloudfront-net.lat/temp/globomg.m3u8
+#EXTINF:-1 tvg-id="TVBahia.br@HD" group-title="TV ABERTA",TV GLOBO BAHIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br@SD" group-title="TV ABERTA",SBT Nacional (720p)
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8

@@ -98,41 +98,29 @@ http://170.83.49.66:8083/TVSENADOHD/index.m3u8
 http://186.219.52.187/tv_senado/index.m3u8
 
 # --- NOTÍCIAS ---
-#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News (720p)
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News 
 http://45.162.64.114/RECORD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News (720p)
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News 
 http://170.83.16.50/RECORD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News (720p)
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News 
 http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News (720p)
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News
 http://186.219.52.187/record_news/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News (720p)
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News 
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:-1 tvg-id="TVideoNews.br@SD" group-title="NOTÍCIAS",TVídeoNews (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVideoNews.br@SD" group-title="NOTÍCIAS",TVídeo News 
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="NOTÍCIAS",BandNews (720p)
+#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="NOTÍCIAS",BandNews 
 http://45.162.64.114/BAND_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="NOTÍCIAS",BandNews (720p)
-http://45.177.114.115/BAND_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="NOTÍCIAS",BandNews (720p)
-http://45.190.28.50/BAND_NEWS_HD/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="NOTÍCIAS",BandNews (720p)
-http://168.197.104.22/BAND_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="NOTÍCIAS",BandNews (720p)
+#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="NOTÍCIAS",BandNews
 http://170.83.16.50/BAND_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="NOTÍCIAS",BandNews (720p)
-http://170.83.49.66:8083/BANDNEWSHD/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="NOTÍCIAS",BandNews (720p)
-http://177.52.24.163/BAND-NEWS-HD/index.m3u8
 #EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br@SD" group-title="NOTÍCIAS",Canal Metropolitano de Noticias
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 tvg-id="J3NEWSTV.br@SD" group-title="NOTÍCIAS",J3NEWS TV
 https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
-#EXTINF:-1 tvg-id="JovemPanNews.br@SD" group-title="NOTÍCIAS",Jovem Pan News (720p)
-http://45.190.28.50/JP_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="JovemPanNews.br@SD" group-title="NOTÍCIAS",Jovem Pan News (720p)
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD" group-title="NOTÍCIAS",Jovem Pan News 
 http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
-#EXTINF:-1 tvg-id="JovemPanNews.br@SD" group-title="NOTÍCIAS",Jovem Pan News (720p)
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD" group-title="NOTÍCIAS",Jovem Pan News 
 http://186.219.52.187/jp_news/index.m3u8
 
 # --- ESPORTES ---
@@ -166,6 +154,14 @@ http://45.162.64.114/BAND_SPORTS/index.m3u8
 http://170.83.16.50/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="CazeTV.br@SD" group-title="ESPORTES",CazeTV (720p)
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/720p-cc/index.m3u8
+#EXTINF:-1 tvg-id="PARAMOUNTPLUS.br@SD" group-title="ESPORTES",PARAMOUNT PLUS 
+https://np.s25-cloudfront-net.lat/temp/paramountplus.m3u8
+#EXTINF:-1 tvg-id="AMAZONPRIMEVIDEO.br@SD" group-title="ESPORTES",AMAZON PRIME VIDEO 
+https://np.s25-cloudfront-net.lat/temp/primevideo.m3u8
+#EXTINF:-1 tvg-id="AMAZONPRIMEVIDEO2.br@SD" group-title="ESPORTES",AMAZON PRIME VIDEO 2 
+https://np.s25-cloudfront-net.lat/temp/primevideo2.m3u8
+#EXTINF:-1 tvg-id="COMBATE.br@SD" group-title="ESPORTES",COMBATE 
+https://np.s25-cloudfront-net.lat/temp/combate.m3u8
 
 # --- FILMES E SÉRIES ---
 #EXTINF:-1 tvg-id="TVSeries.br@SD" group-title="FILMES E SÉRIES",TV Series 1 As Panteras (480p)

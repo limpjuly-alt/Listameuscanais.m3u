@@ -138,21 +138,21 @@ https://np.s25-cloudfront-net.lat/temp/sportv.m3u8
 https://np.s25-cloudfront-net.lat/temp/sportv2.m3u8
 #EXTINF:-1 tvg-id="SPORTTV3" tvg-name="SPORTTV3" group-title="ESPORTES",SPORTTV3
 https://np.s25-cloudfront-net.lat/temp/sportv3.m3u8
-#EXTINF:-1 tvg-id="PremiereClubes.br@SD" group-title="ESPORTES",Premiere Clubes (720p)
+#EXTINF:-1 tvg-id="PremiereClubes.br@SD" group-title="ESPORTES",Premiere Clubes 
 https://np.s25-cloudfront-net.lat/temp/premiere.m3u8
-#EXTINF:-1 tvg-id="Premiere2.br@SD" group-title="ESPORTES",Premiere 2 (720p)
+#EXTINF:-1 tvg-id="Premiere2.br@SD" group-title="ESPORTES",Premiere 2 
 https://np.s25-cloudfront-net.lat/temp/premiere2.m3u8
-#EXTINF:-1 tvg-id="Premiere3.br@SD" group-title="ESPORTES",Premiere 3 (720p)
+#EXTINF:-1 tvg-id="Premiere3.br@SD" group-title="ESPORTES",Premiere 3 
 https://np.s25-cloudfront-net.lat/temp/premiere3.m3u8
-#EXTINF:-1 tvg-id="Premiere4.br@SD" group-title="ESPORTES",Premiere 4 (720p)
+#EXTINF:-1 tvg-id="Premiere4.br@SD" group-title="ESPORTES",Premiere 4
 https://np.s25-cloudfront-net.lat/temp/premiere4.m3u8
-#EXTINF:-1 tvg-id="Premiere5.br@SD" group-title="ESPORTES",Premiere 5 (720p)
+#EXTINF:-1 tvg-id="Premiere5.br@SD" group-title="ESPORTES",Premiere 5 
 https://np.s25-cloudfront-net.lat/temp/premiere5.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD" group-title="ESPORTES",Band Sports (720p)
+#EXTINF:-1 tvg-id="BandSports.br@SD" group-title="ESPORTES",Band Sports 
 http://45.162.64.114/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD" group-title="ESPORTES",Band Sports (720p)
+#EXTINF:-1 tvg-id="BandSports.br@SD" group-title="ESPORTES",Band Sports 
 http://170.83.16.50/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="CazeTV.br@SD" group-title="ESPORTES",CazeTV (720p)
+#EXTINF:-1 tvg-id="CazeTV.br@SD" group-title="ESPORTES",CazeTV 
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/720p-cc/index.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNTPLUS.br@SD" group-title="ESPORTES",PARAMOUNT PLUS 
 https://np.s25-cloudfront-net.lat/temp/paramountplus.m3u8
@@ -164,33 +164,33 @@ https://np.s25-cloudfront-net.lat/temp/primevideo2.m3u8
 https://np.s25-cloudfront-net.lat/temp/combate.m3u8
 
 # --- FILMES E SÉRIES ---
-#EXTINF:-1 tvg-id="TVSeries.br@SD" group-title="FILMES E SÉRIES",TV Series 1 As Panteras (480p)
+#EXTINF:-1 tvg-id="TVSeries.br@SD" group-title="FILMES E SÉRIES",TV Series 1 As Panteras 
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalEducacao.br@SD" group-title="FILMES E SÉRIES",Canal Educação (720p)
+#EXTINF:-1 tvg-id="CanalEducacao.br@SD" group-title="FILMES E SÉRIES",Canal Educação (
 https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="KuriakosCine.pt@SD" group-title="FILMES E SÉRIES",Kuriakos Cine (1080p)
+#EXTINF:-1 tvg-id="KuriakosCine.pt@SD" group-title="FILMES E SÉRIES",Kuriakos Cine 
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Megapix.br@SD" group-title="FILMES",MEGAPIX
 https://np.s25-cloudfront-net.lat/temp/megapix.m3u8
-#EXTINF:-1 tvg-id="space.br@SD" group-title="FILMES",SPACE (720p)
+#EXTINF:-1 tvg-id="space.br@SD" group-title="FILMES",SPACE 
 https://np.s25-cloudfront-net.lat/temp/space.m3u8
-#EXTINF:-1 tvg-id="MegaCineTV.do@HD" group-title= "Movies",Mega Cine TV (1080p)
+#EXTINF:-1 tvg-id="MegaCineTV.do@HD" group-title= "Movies",Mega Cine TV 
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
-#EXTINF:-1 tvg-id="TelecinePipoca.br@SD" group-title="FILMES E SÉRIES",Telecine Pipoca (720p)
+#EXTINF:-1 tvg-id="TelecinePipoca.br@SD" group-title="FILMES E SÉRIES",Telecine Pipoca 
 https://np.s25-cloudfront-net.lat/temp/telecinepipoca.m3u8
-#EXTINF:-1 tvg-id="TelecineFun.br@SD" group-title="FILMES E SÉRIES",Telecine Fun (720p)
+#EXTINF:-1 tvg-id="TelecineFun.br@SD" group-title="FILMES E SÉRIES",Telecine Fun
 https://np.s25-cloudfront-net.lat/temp/telecinefun.m3u8
-#EXTINF:-1 tvg-id="TelecineCult.br@SD" group-title="FILMES E SÉRIES",Telecine Cult (720p)
+#EXTINF:-1 tvg-id="TelecineCult.br@SD" group-title="FILMES E SÉRIES",Telecine Cult 
 https://np.s25-cloudfront-net.lat/temp/telecinecult.m3u8
-#EXTINF:-1 tvg-id="TelecineAction.br@SD" group-title="FILMES E SÉRIES",Telecine Action (720p)
+#EXTINF:-1 tvg-id="TelecineAction.br@SD" group-title="FILMES E SÉRIES",Telecine Action
 https://np.s25-cloudfront-net.lat/temp/telecineaction.m3u8
-#EXTINF:-1 tvg-id="TelecinePremium.br@SD" group-title="FILMES E SÉRIES",Telecine Premium (720p)
+#EXTINF:-1 tvg-id="TelecinePremium.br@SD" group-title="FILMES E SÉRIES",Telecine Premium 
 https://np.s25-cloudfront-net.lat/temp/telecinepremium.m3u8
-#EXTINF:-1 tvg-id="TelecineTouch.br@SD" group-title="FILMES E SÉRIES",Telecine Touch (720p)
+#EXTINF:-1 tvg-id="TelecineTouch.br@SD" group-title="FILMES E SÉRIES",Telecine Touch 
 https://np.s25-cloudfront-net.lat/temp/telecinetouch.m3u8
-#EXTINF:-1 tvg-id="TNT.br@SD" group-title="FILMES E SÉRIES",TNT (720p)
+#EXTINF:-1 tvg-id="TNT.br@SD" group-title="FILMES E SÉRIES",TNT 
 https://np.s25-cloudfront-net.lat/temp/tntseries.m3u8
-#EXTINF:-1 tvg-id="TNTNovelas.br@SD" group-title="FILMES E SÉRIES",TNT Novelas (720p)
+#EXTINF:-1 tvg-id="TNTNovelas.br@SD" group-title="FILMES E SÉRIES",TNT Novelas 
 https://np.s25-cloudfront-net.lat/temp/tntnovelas.m3u8
 #EXTINF:-1 tvg-id="FilmesSuspense.us@BR" group-title="FILMES E SÉRIES",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
@@ -238,17 +238,13 @@ https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
 https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTerrorTrash.us@BR" group-title="FILMES E SÉRIES",Pluto TV Terror Trash
 https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.br@SD" group-title="FILMES E SÉRIES",Sony Movies (720p)
+#EXTINF:-1 tvg-id="SonyMovies.br@SD" group-title="FILMES E SÉRIES",Sony Movies 
 http://45.162.64.114/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.br@SD" group-title="FILMES E SÉRIES",Sony Movies (720p)
-http://45.177.114.115/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.br@SD" group-title="FILMES E SÉRIES",Sony Movies (720p)
-http://168.197.104.22/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.br@SD" group-title="FILMES E SÉRIES",Sony Movies (720p)
+#EXTINF:-1 tvg-id="SonyMovies.br@SD" group-title="FILMES E SÉRIES",Sony Movies 
 http://170.83.16.50/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SonyOneCinema.br@SD" group-title="FILMES E SÉRIES",Sony One Cinema (720p)
+#EXTINF:-1 tvg-id="SonyOneCinema.br@SD" group-title="FILMES E SÉRIES",Sony One Cinema 
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/2000.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.br@SD" group-title="FILMES E SÉRIES",MyTime Movie Network Brazil (720p)
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.br@SD" group-title="FILMES E SÉRIES",MyTime Movie Network Brazil 
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="FILMES E SÉRIES",RunTime | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153

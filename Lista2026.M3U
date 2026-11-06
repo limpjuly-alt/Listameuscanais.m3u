@@ -90,14 +90,6 @@ http://45.162.64.114/GAZETA/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta (720p)
 http://45.162.64.114/TV_GAZETA/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta (720p)
-http://45.190.28.50/GAZETA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta (720p)
-http://138.255.2.6:8084/GAZETA/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta (720p)
-http://168.197.104.22/GAZETA/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta (720p)
-http://170.84.165.204/Gazeta_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta (720p)
 http://186.219.52.187/gazeta/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta (720p)
 https://tv.nuvemplay.live/hls/40gtv/stream.m3u8

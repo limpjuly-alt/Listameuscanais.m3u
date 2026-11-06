@@ -23,16 +23,8 @@ http://170.83.49.66:8083/TVAPARECIDAHD/index.m3u8
 http://186.219.52.187/tv_brasil/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" group-title="TV ABERTA",TV Brasil (720p)
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasilOeste.br@SD" group-title="TV ABERTA",TV Brasil Oeste (720p)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="TV ABERTA",TV Camara (720p)
 http://45.162.64.114/TV_CAMARA/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="TV ABERTA",TV Camara (720p)
-http://45.190.28.50/TV_CAMARA/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="TV ABERTA",TV Camara (720p)
-http://138.255.2.6:8084/TVCAMARA/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="TV ABERTA",TV Camara (720p)
-http://168.197.104.22/TV_CAMARA/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="TV ABERTA",TV Camara (720p)
 http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="TV ABERTA",TV Camara (720p)

@@ -36,17 +36,7 @@ https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.
 #EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura (720p)
 http://45.162.64.114/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura (720p)
-http://45.177.114.115/TV_CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura (720p)
-http://45.190.28.50/TV_CULTURA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura (720p)
-http://138.255.2.6:8084/CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura (720p)
-http://168.197.104.22/TV_CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura (720p)
 http://170.83.16.50/CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura (720p)
-http://170.84.165.204/CULTURA_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura (720p)
 https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
 #EXTINF:-1 tvg-id="TVEscola.br@SD" group-title="TV ABERTA",TV Escola (720p)

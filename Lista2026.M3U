@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-com/epg/main/guides/brazil.xml"
+#EXTM3U x-tvg-url="[https://raw.githubusercontent.com/iptv-com/epg/main/guides/brazil.xml](https://raw.githubusercontent.com/iptv-com/epg/main/guides/brazil.xml)"
+
 # --- TV ABERTA ---
 #EXTINF:-1 tvg-id="GLOBOSP.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="TV ABERTA",TV GLOBO SP
 https://np.s25-cloudfront-net.lat/temp/globosp.m3u8

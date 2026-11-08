@@ -360,7 +360,7 @@ https://np.s25-cloudfront-net.lat/temp/history2.m3u8
 #EXTINF:-1 tvg-id="IMPDTVWorldwide.br@SD" group-title="DOCUMENTÁRIOS",IMPD TV Worldwide (1080p)
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="DOCUMENTÁRIOS",Animal Planet
-https://rdcanais.org/animalplanet.m3u8
+https://np.s25-cloudfront-net.lat/temp/animalplanet.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="DOCUMENTÁRIOS",Discovery Channel
 https://np.s25-cloudfront-net.lat/temp/discovery_channel_hd.m3u8
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="DOCUMENTÁRIOS",Discovery Science

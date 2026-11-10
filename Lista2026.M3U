@@ -99,8 +99,6 @@ http://170.83.49.66:8083/TVSENADOHD/index.m3u8
 http://186.219.52.187/tv_senado/index.m3u8
 
 # --- NOTÍCIAS ---
-#EXTINF:-1 tvg-id="RECORD_NEWS.br@SD" tvg-name="RECORD_NEWS" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="NOTÍCIAS",Record News 
-http://45.162.64.114/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-name="RECORD_NEWS" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="NOTÍCIAS",Record News 
 http://170.83.16.50/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="RECORDNEWSHD.br@SD" tvg-name="RECORDNEWSHD" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="NOTÍCIAS",Record News 

@@ -15,7 +15,7 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 #EXTINF:-1 tvg-id="SBT.br@SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="TV ABERTA",SBT 
 https://np.s25-cloudfront-net.lat/temp/sbt.m3u8
-#EXTINF:-1 tvg-id="SBTNews.br@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Sbtnews2025_blue.svg/revision/latest?cb=20250405034948" group-title="TV ABERTA",SBT News 
+#EXTINF:-1 tvg-id="SBTNews.br@SD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/SBT%20News%20logo.svg" group-title="TV ABERTA",SBT News 
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-id="RecordTV.br@SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/record-br.png?raw=true" group-title="TV ABERTA",Record TV 
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
@@ -33,89 +33,89 @@ http://186.219.52.187/rede_tv/index.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br@SD" group-title="TV ABERTA",TV Aparecida 
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br@SD" group-title="TV ABERTA",TV Aparecida 
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="TV ABERTA",TV Aparecida 
 http://45.162.64.114/TV_APARECIDA/index.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br@SD" group-title="TV ABERTA",TV Aparecida 
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="TV ABERTA",TV Aparecida 
 http://170.83.16.50/TV_APARECIDA/index.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br@SD" group-title="TV ABERTA",TV Aparecida 
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="TV ABERTA",TV Aparecida 
 http://170.83.49.66:8083/TVAPARECIDAHD/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br@SD" group-title="TV ABERTA",TV Brasil 
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="TV ABERTA",TV Brasil 
 http://186.219.52.187/tv_brasil/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br@SD" group-title="TV ABERTA",TV Brasil 
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="TV ABERTA",TV Brasil 
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="TV ABERTA",TV Camara 
+#EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="TV ABERTA",TV Camara 
 http://45.162.64.114/TV_CAMARA/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="TV ABERTA",TV Camara 
+#EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="TV ABERTA",TV Camara 
 http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="TV ABERTA",TV Camara 
+#EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="TV ABERTA",TV Camara 
 http://186.219.52.187/tv_camara/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br@SD" group-title="TV ABERTA",TV Câmara 
+#EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="TV ABERTA",TV Câmara 
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="TVCidadeVerdeCuiaba.br@SD" group-title="TV ABERTA",TV Cidade Verde Cuiaba
+#EXTINF:-1 tvg-id="TVCidadeVerdeCuiaba.br@SD" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tvcidadeverde.png" group-title="TV ABERTA",TV Cidade Verde Cuiaba
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura 
+#EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-cultura-br.png" group-title="TV ABERTA",TV Cultura 
 http://45.162.64.114/TV_CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura 
+#EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-cultura-br.png" group-title="TV ABERTA",TV Cultura 
 http://170.83.16.50/CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD" group-title="TV ABERTA",TV Cultura 
+#EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-cultura-br.png" group-title="TV ABERTA",TV Cultura 
 https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
-#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" group-title="TV ABERTA",TV Evangelizar 
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-logo="https://i.imgur.com/IrYR7Kp.png" group-title="TV ABERTA",TV Evangelizar 
 http://45.162.64.114/EVANGELIZAR/index.m3u8
-#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" group-title="TV ABERTA",TV Evangelizar 
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-logo="https://i.imgur.com/IrYR7Kp.png" group-title="TV ABERTA",TV Evangelizar 
 http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
-#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" group-title="TV ABERTA",TV Evangelizar
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-logo="https://i.imgur.com/IrYR7Kp.png" group-title="TV ABERTA",TV Evangelizar
 http://170.83.49.66:8083/EVANGELIZARHD/index.m3u8
-#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" group-title="TV ABERTA",TV Evangelizar
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-logo="https://i.imgur.com/IrYR7Kp.png" group-title="TV ABERTA",TV Evangelizar
 http://186.219.52.187/tv_evangelizar/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://imgur.com/j1IJco4.png" group-title="TV ABERTA",TV Gazeta
 http://45.162.64.114/GAZETA/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://imgur.com/j1IJco4.png" group-title="TV ABERTA",TV Gazeta
 http://45.162.64.114/TV_GAZETA/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://imgur.com/j1IJco4.png" group-title="TV ABERTA",TV Gazeta
 http://186.219.52.187/gazeta/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" group-title="TV ABERTA",TV Gazeta 
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://imgur.com/j1IJco4.png" group-title="TV ABERTA",TV Gazeta 
 https://tv.nuvemplay.live/hls/40gtv/stream.m3u8
-#EXTINF:-1 tvg-id="TVJustica.br@SD" group-title="TV ABERTA",TV Justica 
+#EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/TV%20Justi%C3%A7a%20logo.png" group-title="TV ABERTA",TV Justica 
 http://45.162.64.114/TV_JUSTICA/index.m3u8
-#EXTINF:-1 tvg-id="TVJustica.br@SD" group-title="TV ABERTA",TV Justica 
+#EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/TV%20Justi%C3%A7a%20logo.png" group-title="TV ABERTA",TV Justica 
 http://170.83.16.50/TV_JUSTICA/index.m3u8
-#EXTINF:-1 tvg-id="TVJustica.br@SD" group-title="TV ABERTA",TV Justica 
+#EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/TV%20Justi%C3%A7a%20logo.png" group-title="TV ABERTA",TV Justica 
 http://170.83.49.66:8083/TVJUSTICAHD/index.m3u8
-#EXTINF:-1 tvg-id="TVJustica.br@SD" group-title="TV ABERTA",TV Justica 
+#EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/TV%20Justi%C3%A7a%20logo.png" group-title="TV ABERTA",TV Justica 
 http://186.219.52.187/tv_justica/index.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="TV ABERTA",TV Senado 
+#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/TV_Senado_Logo.png" group-title="TV ABERTA",TV Senado 
 http://45.162.64.114/TV_SENADO/index.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="TV ABERTA",TV Senado 
+#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/TV_Senado_Logo.png" group-title="TV ABERTA",TV Senado 
 http://45.190.28.50/TV_SENADO/index.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="TV ABERTA",TV Senado 
+#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/TV_Senado_Logo.png" group-title="TV ABERTA",TV Senado 
 http://138.255.2.6:8084/TVSENADO/index.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="TV ABERTA",TV Senado 
+#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/TV_Senado_Logo.png" group-title="TV ABERTA",TV Senado 
 http://168.197.104.22/TV_SENADO/index.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="TV ABERTA",TV Senado 
+#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/TV_Senado_Logo.png" group-title="TV ABERTA",TV Senado 
 http://170.83.16.50/TV_SENADO/index.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="TV ABERTA",TV Senado 
+#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/TV_Senado_Logo.png" group-title="TV ABERTA",TV Senado 
 http://170.83.49.66:8083/TVSENADOHD/index.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD" group-title="TV ABERTA",TV Senado 
+#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/TV_Senado_Logo.png" group-title="TV ABERTA",TV Senado 
 http://186.219.52.187/tv_senado/index.m3u8
 
 # --- NOTÍCIAS ---
-#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News 
+#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="NOTÍCIAS",Record News 
 http://45.162.64.114/RECORD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News 
+#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="NOTÍCIAS",Record News 
 http://170.83.16.50/RECORD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News 
+#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="NOTÍCIAS",Record News 
 http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News
+#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="NOTÍCIAS",Record News
 http://186.219.52.187/record_news/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="NOTÍCIAS",Record News 
+#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="NOTÍCIAS",Record News 
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:-1 tvg-id="TVideoNews.br@SD" group-title="NOTÍCIAS",TVídeo News 
+#EXTINF:-1 tvg-id="TVideoNews.br@SD" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="NOTÍCIAS",TVídeo News 
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="NOTÍCIAS",BandNews 
+#EXTINF:-1 tvg-id="BandNews.br@SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="NOTÍCIAS",BandNews 
 http://45.162.64.114/BAND_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="NOTÍCIAS",BandNews
+#EXTINF:-1 tvg-id="BandNews.br@SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="NOTÍCIAS",BandNews
 http://170.83.16.50/BAND_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br@SD" group-title="NOTÍCIAS",Canal Metropolitano de Noticias
+#EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br@SD" tvg-logo="https://i.imgur.com/Ga2uWoa.png" group-title="NOTÍCIAS",Canal Metropolitano de Noticias
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 tvg-id="J3NEWSTV.br@SD" group-title="NOTÍCIAS",J3NEWS TV
 https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8

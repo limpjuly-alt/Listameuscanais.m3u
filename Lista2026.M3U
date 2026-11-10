@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="[https://raw.githubusercontent.com/iptv-com/epg/main/guides/brazil.xml](https://raw.githubusercontent.com/iptv-com/epg/main/guides/brazil.xml)"
 
 # --- TV ABERTA ---
-#EXTINF:-1 tvg-id="GLOBOSP.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="TV ABERTA",TV GLOBO SP
+#EXTINF:-1 tvg-id="GLOBOSP.br@SD" tvg-name="GLOBOSP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="TV ABERTA",TV GLOBO SP
 https://np.s25-cloudfront-net.lat/temp/globosp.m3u8
-#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-name="TV Globo RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="TV ABERTA",TV GLOBO RJ
+#EXTINF:-1 tvg-id="GLOBORJ.br@SD" tvg-name="GLOBORJ" tvg-name="TV Globo RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="TV ABERTA",TV GLOBO RJ
 https://np.s25-cloudfront-net.lat/temp/globorj.m3u8
-#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-name="TV Globo RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="TV ABERTA",TV GLOBO RS
+#EXTINF:-1 tvg-id="GLOBORS.br@SD" tvg-name="TV Globo RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="TV ABERTA",TV GLOBO RS
 https://np.s25-cloudfront-net.lat/temp/globors.m3u8
-#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-name="TV Globo MG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="TV ABERTA",TV GLOBO MG
+#EXTINF:-1 tvg-id="GLOBOMG.br@SD" tvg-name="TV Globo MG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="TV ABERTA",TV GLOBO MG
 https://np.s25-cloudfront-net.lat/temp/globomg.m3u8
-#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-name="TV Globo Bahia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="TV ABERTA",TV GLOBO BAHIA
+#EXTINF:-1 tvg-id="GLOBOTVBAHIA.br@SD" tvg-name="TV Globo Bahia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="TV ABERTA",TV GLOBO BAHIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-name="SBT Nacional" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="TV ABERTA",SBT NACIONAL
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
@@ -125,19 +125,19 @@ http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
 http://186.219.52.187/jp_news/index.m3u8
 
 # --- ESPORTES ---
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="ESPORTES",ESPN
+#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/ESPN_logo.png" group-title="ESPORTES",ESPN
 https://np.s25-cloudfront-net.lat/temp/espn.m3u8
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN" group-title="ESPORTES",ESPN2
+#EXTINF:-1 tvg-id="ESPN2.br@SD" tvg-name="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Espn-2-hd-logo.png" group-title="ESPORTES",ESPN2
 https://np.s25-cloudfront-net.lat/temp/espn2.m3u8
-#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN" group-title="ESPORTES",ESPN3
+#EXTINF:-1 tvg-id="ESPN3.br@SD" tvg-name="ESPN3" group-title="ESPORTES",ESPN3
 https://np.s25-cloudfront-net.lat/temp/espn3.m3u8
-#EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN" group-title="ESPORTES",ESPN4
+#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-name="ESPN4" group-title="ESPORTES",ESPN4
 https://np.s25-cloudfront-net.lat/temp/espn4.m3u8
-#EXTINF:-1 tvg-id="SPORTTV" tvg-name="SPORTTV" group-title="ESPORTES",SPORTTV
+#EXTINF:-1 tvg-id="SPORTTV.br@SD" tvg-name="SPORTTV" group-title="ESPORTES",SPORTTV
 https://np.s25-cloudfront-net.lat/temp/sportv.m3u8
-#EXTINF:-1 tvg-id="SPORTTV2" tvg-name="SPORTTV2" group-title="ESPORTES",SPORTTV2
+#EXTINF:-1 tvg-id="SPORTTV2.br@SD" tvg-name="SPORTTV2" group-title="ESPORTES",SPORTTV2
 https://np.s25-cloudfront-net.lat/temp/sportv2.m3u8
-#EXTINF:-1 tvg-id="SPORTTV3" tvg-name="SPORTTV3" group-title="ESPORTES",SPORTTV3
+#EXTINF:-1 tvg-id="SPORTTV3.br@SD" tvg-name="SPORTTV3" group-title="ESPORTES",SPORTTV3
 https://np.s25-cloudfront-net.lat/temp/sportv3.m3u8
 #EXTINF:-1 tvg-id="PremiereClubes.br@SD" group-title="ESPORTES",Premiere Clubes 
 https://np.s25-cloudfront-net.lat/temp/premiere.m3u8

@@ -15,21 +15,21 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 #EXTINF:-1 tvg-id="SBT.br@SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="TV ABERTA",SBT 
 https://np.s25-cloudfront-net.lat/temp/sbt.m3u8
-#EXTINF:-1 tvg-id="SBTNews.br@SD" group-title="TV ABERTA",SBT News 
+#EXTINF:-1 tvg-id="SBTNews.br@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Sbtnews2025_blue.svg/revision/latest?cb=20250405034948" group-title="TV ABERTA",SBT News 
 https://sbtnews.maissbt.com/3.m3u8
-#EXTINF:-1 tvg-id="RecordTV.br@SD" group-title="TV ABERTA",Record TV 
+#EXTINF:-1 tvg-id="RecordTV.br@SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/record-br.png?raw=true" group-title="TV ABERTA",Record TV 
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="RecordTV.br@SD" group-title="TV ABERTA",Record TV
+#EXTINF:-1 tvg-id="RecordTV.br@SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/record-br.png?raw=true" group-title="TV ABERTA",Record TV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="Band.br@SD" group-title="TV ABERTA",BAND
+#EXTINF:-1 tvg-id="Band.br@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png" group-title="TV ABERTA",BAND
 https://np.s25-cloudfront-net.lat/temp/band.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD" group-title="TV ABERTA",Rede TV! 
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="TV ABERTA",Rede TV! 
 http://170.83.16.50/REDE_TV/index.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD" group-title="TV ABERTA",Rede TV! 
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="TV ABERTA",Rede TV! 
 http://170.83.49.66:8083/REDETVHD/index.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD" group-title="TV ABERTA",Rede TV! 
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="TV ABERTA",Rede TV! 
 http://186.219.52.187/rede_tv/index.m3u8
-#EXTINF:-1 tvg-id="RedeTVMais.br@SD" group-title="TV ABERTA",Rede TV! Mais
+#EXTINF:-1 tvg-id="RedeTVMais.br@SD" tvg-logo="https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png" group-title="TV ABERTA",Rede TV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br@SD" group-title="TV ABERTA",TV Aparecida 
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8

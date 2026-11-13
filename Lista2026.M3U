@@ -113,13 +113,13 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 http://45.162.64.114/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BAND_NEWS.br@SD" tvg-name="BAND_NEWS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="NOTÍCIAS",BandNews
 http://170.83.16.50/BAND_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="claudio8701.br@SD" tvg-name="claudio8701" tvg-logo="https://i.imgur.com/Ga2uWoa.png" group-title="NOTÍCIAS",Canal Metropolitano de Noticias
+#EXTINF:-1 tvg-id="CANAL_METROPOLITANO.br@SD" tvg-name="CANAL_METROPOLITANO" tvg-logo="https://i.imgur.com/Ga2uWoa.png" group-title="NOTÍCIAS",Canal Metropolitano de Noticias
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
-#EXTINF:-1 tvg-id="J3NEWSTV.br@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcL5Ek0vOKs0QijgqKX9cd62ouw6EynTgRhl2X3XBaydiI3tNu7R37iMdQ&s=10" group-title="NOTÍCIAS",J3NEWS TV
+#EXTINF:-1 tvg-id="J3NEWSTV.br@SD" tvg-name="J3NEWSTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcL5Ek0vOKs0QijgqKX9cd62ouw6EynTgRhl2X3XBaydiI3tNu7R37iMdQ&s=10" group-title="NOTÍCIAS",J3NEWS TV
 https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
-#EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png" group-title="NOTÍCIAS",Jovem Pan News 
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-name="JovemPanNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png" group-title="NOTÍCIAS",Jovem Pan News 
 http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
-#EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png" group-title="NOTÍCIAS",Jovem Pan News 
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-name="JovemPanNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png" group-title="NOTÍCIAS",Jovem Pan News 
 http://186.219.52.187/jp_news/index.m3u8
 
 # --- ESPORTES ---

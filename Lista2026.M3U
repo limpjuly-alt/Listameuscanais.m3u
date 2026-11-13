@@ -127,51 +127,51 @@ http://186.219.52.187/jp_news/index.m3u8
 https://np.s25-cloudfront-net.lat/temp/espn.m3u8
 #EXTINF:-1 tvg-id="ESPN2.br@SD" tvg-name="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Espn-2-hd-logo.png" group-title="ESPORTES",ESPN2
 https://np.s25-cloudfront-net.lat/temp/espn2.m3u8
-#EXTINF:-1 tvg-id="ESPN3.br@SD" tvg-name="ESPN3" group-title="ESPORTES",ESPN3
+#EXTINF:-1 tvg-id="ESPN3.br@SD" tvg-name="ESPN3" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Espn3.png" group-title="ESPORTES",ESPN3
 https://np.s25-cloudfront-net.lat/temp/espn3.m3u8
-#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-name="ESPN4" group-title="ESPORTES",ESPN4
+#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-name="ESPN4" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_4_logo.svg" group-title="ESPORTES",ESPN4
 https://np.s25-cloudfront-net.lat/temp/espn4.m3u8
-#EXTINF:-1 tvg-id="SPORTTV.br@SD" tvg-name="SPORTTV" group-title="ESPORTES",SPORTTV
+#EXTINF:-1 tvg-id="SPORTTV.br@SD" tvg-name="SPORTTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/SporTV%202021.png" group-title="ESPORTES",SPORTTV
 https://np.s25-cloudfront-net.lat/temp/sportv.m3u8
-#EXTINF:-1 tvg-id="SPORTTV2.br@SD" tvg-name="SPORTTV2" group-title="ESPORTES",SPORTTV2
+#EXTINF:-1 tvg-id="SPORTTV2.br@SD" tvg-name="SPORTTV2" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/SporTV_2_logotipo.png" group-title="ESPORTES",SPORTTV2
 https://np.s25-cloudfront-net.lat/temp/sportv2.m3u8
-#EXTINF:-1 tvg-id="SPORTTV3.br@SD" tvg-name="SPORTTV3" group-title="ESPORTES",SPORTTV3
+#EXTINF:-1 tvg-id="SPORTTV3.br@SD" tvg-name="SPORTTV3" tvg-logo="https://www.tvlogo.org/brazil/sportv3-br.png" group-title="ESPORTES",SPORTTV3
 https://np.s25-cloudfront-net.lat/temp/sportv3.m3u8
-#EXTINF:-1 tvg-id="PremiereClubes.br@SD" group-title="ESPORTES",Premiere Clubes 
+#EXTINF:-1 tvg-id="PremiereClubes.br@SD" tvg-name="PremiereClubes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png" group-title="ESPORTES",Premiere Clubes 
 https://np.s25-cloudfront-net.lat/temp/premiere.m3u8
-#EXTINF:-1 tvg-id="Premiere2.br@SD" group-title="ESPORTES",Premiere 2 
+#EXTINF:-1 tvg-id="Premiere2.br@SD" tvg-name="Premiere2" tvg-logo="https://images.seeklogo.com/logo-png/18/1/premiere-2-logo-png_seeklogo-189179.png" group-title="ESPORTES",Premiere 2 
 https://np.s25-cloudfront-net.lat/temp/premiere2.m3u8
-#EXTINF:-1 tvg-id="Premiere3.br@SD" group-title="ESPORTES",Premiere 3 
+#EXTINF:-1 tvg-id="Premiere3.br@SD" tvg-name="Premiere3" tvg-logo="https://images.seeklogo.com/logo-png/22/1/premiere-3-2008-logo-png_seeklogo-223835.png" group-title="ESPORTES",Premiere 3 
 https://np.s25-cloudfront-net.lat/temp/premiere3.m3u8
-#EXTINF:-1 tvg-id="Premiere4.br@SD" group-title="ESPORTES",Premiere 4
+#EXTINF:-1 tvg-id="Premiere4.br@SD" tvg-name="Premiere4" tvg-logo="https://images.seeklogo.com/logo-png/23/1/premiere-4-logo-png_seeklogo-231189.png" group-title="ESPORTES",Premiere 4
 https://np.s25-cloudfront-net.lat/temp/premiere4.m3u8
-#EXTINF:-1 tvg-id="Premiere5.br@SD" group-title="ESPORTES",Premiere 5 
+#EXTINF:-1 tvg-id="Premiere5.br@SD" tvg-name="Premiere5" tvg-logo="https://iconape.com/wp-content/png_logo_vector/premiere-5-logo.png" group-title="ESPORTES",Premiere 5 
 https://np.s25-cloudfront-net.lat/temp/premiere5.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD" group-title="ESPORTES",Band Sports 
+#EXTINF:-1 tvg-id="BandSports.br@SD" tvg-name="BandSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png" group-title="ESPORTES",Band Sports 
 http://45.162.64.114/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD" group-title="ESPORTES",Band Sports 
+#EXTINF:-1 tvg-id="BandSports.br@SD" tvg-name="BandSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png" group-title="ESPORTES",Band Sports 
 http://170.83.16.50/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="CazeTV.br@SD" group-title="ESPORTES",CazeTV 
+#EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-name="CazeTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="ESPORTES",CazeTV 
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/720p-cc/index.m3u8
-#EXTINF:-1 tvg-id="PARAMOUNTPLUS.br@SD" group-title="ESPORTES",PARAMOUNT PLUS 
+#EXTINF:-1 tvg-id="PARAMOUNTPLUS.br@SD" tvg-name="PARAMOUNTPLUS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Paramount%2B_Logo.png" group-title="ESPORTES",PARAMOUNT PLUS 
 https://np.s25-cloudfront-net.lat/temp/paramountplus.m3u8
-#EXTINF:-1 tvg-id="AMAZONPRIMEVIDEO.br@SD" group-title="ESPORTES",AMAZON PRIME VIDEO 
+#EXTINF:-1 tvg-id="AMAZONPRIMEVIDEO.br@SD" tvg-name="AMAZONPRIMEVIDEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Primevideo2024.png" group-title="ESPORTES",AMAZON PRIME VIDEO 
 https://np.s25-cloudfront-net.lat/temp/primevideo.m3u8
-#EXTINF:-1 tvg-id="AMAZONPRIMEVIDEO2.br@SD" group-title="ESPORTES",AMAZON PRIME VIDEO 2 
+#EXTINF:-1 tvg-id="AMAZONPRIMEVIDEO2.br@SD" tvg-name="AMAZONPRIMEVIDEO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Primevideo2024.png" group-title="ESPORTES",AMAZON PRIME VIDEO 2 
 https://np.s25-cloudfront-net.lat/temp/primevideo2.m3u8
-#EXTINF:-1 tvg-id="COMBATE.br@SD" group-title="ESPORTES",COMBATE 
+#EXTINF:-1 tvg-id="COMBATE.br@SD" tvg-name="COMBATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="ESPORTES",COMBATE 
 https://np.s25-cloudfront-net.lat/temp/combate.m3u8
 
 # --- FILMES E SÉRIES ---
-#EXTINF:-1 tvg-id="TVSeries.br@SD" group-title="FILMES E SÉRIES",TV Series 1 As Panteras 
+#EXTINF:-1 tvg-id="TVSeries.br@SD" tvg-name="TVSeries" group-title="FILMES E SÉRIES",TV Series 1 As Panteras 
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalEducacao.br@SD" group-title="FILMES E SÉRIES",Canal Educação (
+#EXTINF:-1 tvg-id="CanalEducacao.br@SD" tvg-name="Canaleducacao" group-title="FILMES E SÉRIES",Canal Educação (
 https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="KuriakosCine.pt@SD" group-title="FILMES E SÉRIES",Kuriakos Cine 
+#EXTINF:-1 tvg-id="KuriakosCine.pt@SD" tvg-name="KuriakosCineo" group-title="FILMES E SÉRIES",Kuriakos Cine 
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Megapix.br@SD" group-title="FILMES",MEGAPIX
+#EXTINF:-1 tvg-id="Megapix.br@SD" tvg-name="Megapix" group-title="FILMES",MEGAPIX
 https://np.s25-cloudfront-net.lat/temp/megapix.m3u8
-#EXTINF:-1 tvg-id="space.br@SD" group-title="FILMES",SPACE 
+#EXTINF:-1 tvg-id="space.br@SD" tvg-name="SPACE" group-title="FILMES",SPACE 
 https://np.s25-cloudfront-net.lat/temp/space.m3u8
 #EXTINF:-1 tvg-id="MegaCineTV.do@HD" group-title= "Movies",Mega Cine TV 
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8

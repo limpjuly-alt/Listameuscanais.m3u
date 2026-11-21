@@ -141,7 +141,7 @@ https://np.s25-cloudfront-net.lat/temp/sportv3.m3u8
 https://np.s25-cloudfront-net.lat/temp/premiere.m3u8
 #EXTINF:-1 tvg-id="Premiere2.br@SD" tvg-name="Premiere2" tvg-logo="https://images.seeklogo.com/logo-png/18/1/premiere-2-logo-png_seeklogo-189179.png" group-title="ESPORTES",Premiere 2 
 https://np.s25-cloudfront-net.lat/temp/premiere2.m3u8
-#EXTINF:-1 tvg-id="Premiere3.br@SD" tvg-name="Premiere3" tvg-logo="https://images.seeklogo.com/logo-png/22/1/premiere-3-2008-logo-png_seeklogo-223835.png" group-title="ESPORTES",Premiere 3 
+#EXTINF:-1 tvg-id="Premiere3.br@SD" tvg-name="Premiere3" tvg-logo="https://images.seeklogo.com/logo-png/22/1/premiere-3-2008-logo-png_seeklogo-223835.png" group-title="ESPORTES",Premiere 3
 https://np.s25-cloudfront-net.lat/temp/premiere3.m3u8
 #EXTINF:-1 tvg-id="Premiere4.br@SD" tvg-name="Premiere4" tvg-logo="https://images.seeklogo.com/logo-png/23/1/premiere-4-logo-png_seeklogo-231189.png" group-title="ESPORTES",Premiere 4
 https://np.s25-cloudfront-net.lat/temp/premiere4.m3u8
@@ -151,8 +151,10 @@ https://np.s25-cloudfront-net.lat/temp/premiere5.m3u8
 http://45.162.64.114/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br@SD" tvg-name="BandSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png" group-title="ESPORTES",Band Sports 
 http://170.83.16.50/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-name="CazeTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="ESPORTES",CazeTV 
+#EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-name="CazeTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="ESPORTES",CazeTV  
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/720p-cc/index.m3u8
+#EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-name="CazeTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="ESPORTES",CazeTV 2
+https://np.s25-cloudfront-net.lat/temp/caze2.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNTPLUS.br@SD" tvg-name="PARAMOUNTPLUS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Paramount%2B_Logo.png" group-title="ESPORTES",PARAMOUNT PLUS 
 https://np.s25-cloudfront-net.lat/temp/paramountplus.m3u8
 #EXTINF:-1 tvg-id="AMAZONPRIMEVIDEO.br@SD" tvg-name="AMAZONPRIMEVIDEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Primevideo2024.png" group-title="ESPORTES",AMAZON PRIME VIDEO 
@@ -285,70 +287,24 @@ https://x1colegal.com/hls/stream.m3u8
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.br@SD" group-title="INFANTIL",Cartoon Network (720p)
 https://7e81efda814711904acd3dfccfd1c824.s25-cloudfront-net.lat/stream/5ea02d3d86e84200ee0d68f72da3913e/cartoonnetwork.txt.m3u8
-#EXTINF:-1 tvg-name="Discovery Kids 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="INFANTIL",Discovery Kids 4K
-http://tjtor8411.com:80/010794/FXz1sY/90250.ts
-#EXTINF:-1 tvg-name="Discovery Kids FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="INFANTIL",Discovery Kids FHD
-http://tjtor8411.com:80/010794/FXz1sY/71871.ts
-#EXTINF:-1 tvg-name="Discovery Kids FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="INFANTIL",Discovery Kids FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71872.ts
-#EXTINF:-1 timeshift="7" tvg-name="Discovery Kids HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="INFANTIL",Discovery Kids HD
-http://tjtor8411.com:80/010794/FXz1sY/71873.ts
-#EXTINF:-1 tvg-name="Discovery Kids SD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="INFANTIL",Discovery Kids SD
-http://tjtor8411.com:80/010794/FXz1sY/71874.ts
+#EXTINF:-1 tvg-name="Discovery Kids 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverykids.png" group-title="INFANTIL",Discovery Kids 
+https://np.s25-cloudfront-net.lat/temp/discoverykids.m3u8
+#EXTINF:-1 tvg-name="cartoonnetwork" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Cartoon_Network_logo.png?utm_source=chatgpt.com" group-title="INFANTIL",Cartoon Network
+https://np.s25-cloudfront-net.lat/temp/cartoonnetwork.m3u8
 
 # --- DOCUMENTÁRIOS ---
-#EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="DOCUMENTÁRIOS",Terra Viva (720p)
-http://45.162.64.114/TERRAVIVA/index.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="DOCUMENTÁRIOS",Terra Viva (720p)
-http://45.177.114.115/TERRAVIVA/index.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="DOCUMENTÁRIOS",Terra Viva (720p)
-http://45.190.28.50/TERRA_VIVA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="DOCUMENTÁRIOS",Terra Viva (720p)
-http://138.255.2.6:8084/TERRAVIVA/index.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="DOCUMENTÁRIOS",Terra Viva (720p)
-http://168.197.104.22/TERRAVIVA/index.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="DOCUMENTÁRIOS",Terra Viva (720p)
 http://170.83.16.50/TERRA_VIVA/index.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br@SD" group-title="DOCUMENTÁRIOS",Terra Viva (720p)
 http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8
 #EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="DOCUMENTÁRIOS",AgroMais (720p)
-http://45.162.64.114/AGROMAIS/index.m3u8
-#EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="DOCUMENTÁRIOS",AgroMais (720p)
-http://45.177.114.115/agromais/index.m3u8
-#EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="DOCUMENTÁRIOS",AgroMais (720p)
-http://45.177.114.115/AGROMAIS_HD/index.m3u8
-#EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="DOCUMENTÁRIOS",AgroMais (720p)
-http://45.190.28.50/AGROMAIS_HD/index.m3u8
-#EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="DOCUMENTÁRIOS",AgroMais (720p)
-http://138.255.2.6:8084/AGROMAIS/index.m3u8
-#EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="DOCUMENTÁRIOS",AgroMais (720p)
-http://168.197.104.22/AGROMAIS/index.m3u8
-#EXTINF:-1 tvg-id="AgroMais.br@SD" group-title="DOCUMENTÁRIOS",AgroMais (720p)
 http://170.83.16.50/AGRO_MAIS/index.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" group-title="DOCUMENTÁRIOS",Canal do Boi (720p)
-http://45.162.64.114/CANAL_DO_BOI/index.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" group-title="DOCUMENTÁRIOS",Canal do Boi (720p)
-http://45.190.28.50/CANAL_DO_BOI/index.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" group-title="DOCUMENTÁRIOS",Canal do Boi (720p)
-http://168.197.104.22/CANAL_DO_BOI/index.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br@SD" group-title="DOCUMENTÁRIOS",Canal do Boi (720p)
 http://170.83.16.50/CANAL_DO_BOI/index.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br@SD" group-title="DOCUMENTÁRIOS",Canal do Boi (720p)
-http://170.83.49.66:8083/CANALDOBOIHD/index.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" group-title="DOCUMENTÁRIOS",Canal do Boi (720p)
 http://186.219.52.187/canal_do_boi/index.m3u8
-#EXTINF:-1 tvg-id="CanalRural.br@SD" group-title="DOCUMENTÁRIOS",Canal Rural (1080p)
-https://cdn2.easy.tv.br/canalrural/index.m3u8
-#EXTINF:-1 tvg-id="CanalRural.br@SD" group-title="DOCUMENTÁRIOS",Canal Rural (720p)
-http://170.83.49.66:8083/CANALRURALHD/index.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br@SD" group-title="DOCUMENTÁRIOS",Canal Rural (720p)
 http://186.219.52.187/canal_rural/index.m3u8
-#EXTINF:-1 tvg-id="FishTV.br@SD" group-title="DOCUMENTÁRIOS",Fish TV (720p)
-http://45.162.64.114/FISH_TV/index.m3u8
-#EXTINF:-1 tvg-id="FishTV.br@SD" group-title="DOCUMENTÁRIOS",Fish TV (720p)
-http://45.190.28.50/FISH_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="FishTV.br@SD" group-title="DOCUMENTÁRIOS",Fish TV (720p)
-http://168.197.104.22/FISH_TV/index.m3u8
 #EXTINF:-1 tvg-id="FishTV.br@SD" group-title="DOCUMENTÁRIOS",Fish TV (720p)
 http://170.83.16.50/FISH_TV/index.m3u8
 #EXTINF:-1 tvg-id="History.br@SD" group-title="DOCUMENTÁRIOS",History (720p)
